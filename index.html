@@ -1,0 +1,16 @@
+---
+layout: default
+title: Home
+---
+
+<img src="{{ site.github.owner_gravatar_url }}" alt="{{ site.github.owner_name }}'s Gravatar">
+
+<h1>A repository showcase <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></h1>
+
+<ul>
+{% for repo in site.github.public_repositories %}
+  
+  <li><a href="{{ repo.url }}">{{ repo.name }} - {{ repo.description }}</a></li>
+
+{% endfor %}
+</ul>
