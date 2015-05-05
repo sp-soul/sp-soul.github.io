@@ -23,8 +23,93 @@
 
     <h1>Home</h1>
 
-    <p>This is called: </p>
-<p></p>
+    <p># </p>
+
+<p>This is a demonstration of some of the cool integrations with GitHub that
+GitHub Pages provides.</p>
+
+<p>For example, that heading comes from the GitHub repository this demo is
+hosted within.</p>
+
+<p>```</p>
+
+<h1>{{ site.github.project_tagline }}</h1>
+
+<p>```</p>
+
+<p>The repository this demo is hosted in is []()</p>
+
+<h2 id="contributors">Contributors</h2>
+
+<p>These lovely people have contributed a change to this repository. If you want to see yourself in this list, send me a pull request. Go to the bottom for a real simple way to help.</p>
+
+<ul>
+
+</ul>
+
+<p>The code for generating that list is:</p>
+
+<p>```</p>
+
+<ul>
+{% for contributor in site.github.contributors %}
+  <li>
+    <img src="{{ contributor.avatar_url }}" width="32" height="32" /> {{ contributor.login }}
+  </li>
+{% endfor %}
+</ul>
+
+<p>```</p>
+
+<h2 id="repositories">Repositories</h2>
+
+<p>This is a list of my public repositories</p>
+
+<div>
+  
+</div>
+
+<p>```</p>
+
+<div>
+  {% for repository in site.github.public_repositories %}
+    <span>{{ repository.full_name }} </span>
+  {% endfor %}
+</div>
+
+<p>```</p>
+
+<h2 id="members">Members</h2>
+
+<p>This is a list of the members of my “organization”. This is probably just me.</p>
+
+<ul>
+
+</ul>
+
+<p>```</p>
+
+<ul>
+{% for member in site.github.organization_members %}
+  <li>
+    <img src="{{ member.avatar_url }}" width="32" height="32" /> {{ member.login }}
+  </li>
+{% endfor %}
+</ul>
+
+<p>```</p>
+
+<h2 id="help-me-fix-this-page-up">Help me fix this page up</h2>
+
+<h3 id="css-help">CSS Help</h3>
+<p>If you want to see yourself in this list I could use some help throwing some <a href="/edit/gh-pages/_layouts/default.html">simple CSS styles in the default layout</a>.</p>
+
+<p>Just click that link to edit the layout right in your browser.</p>
+
+<h3 id="bug-in-this-page">Bug in this page?</h3>
+
+<p>To fix a bug in this page <a href="/edit/gh-pages/index.markdown">click this edit link</a>.</p>
+
 
 	</body>
 </html>

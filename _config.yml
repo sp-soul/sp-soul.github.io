@@ -1,2 +1,6 @@
-highlighter: pygments
-github: [Repository metadata]
+#
+# Jekyll Settings
+#
+markdown: redcarpet
+redcarpet:
+  extensions: ["tables"]
