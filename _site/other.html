@@ -1,11 +1,28 @@
 <!DOCTYPE html>
-<html>
-	<meta charset="utf-8">
-        <title>Other</title>
-        <link rel="stylesheet" href="/css/styles.css" >
-    </head>
-    <body>
-	
+<html lang="en" id="site" class="nojs">
+<head>
+<!--[if lt IE 9]>
+<script src="../static/js/vendor/html5shiv.js"></script>
+<![endif]-->
+
+    <title>Tangent House Styles</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1.0">
+
+    <link rel="stylesheet" type="text/css" href="../static/css/styles.css"/>
+    <link rel="stylesheet" media="screen and (min-width:0) and (max-width:767px)" href="../static/css/styles-responsive.css"/>
+    <!--[if lt IE 8 ]>
+        <link rel="stylesheet" type="text/css" href="../static/css/styles-responsive.css"/>
+    <![endif]-->
+    <link rel="icon" type="image/x-icon" href="http://mrfirthy.me/static/img/icons/favicon.ico">
+
+    <script>
+        /* we want to remove the nojs class as soon as possible on page load */
+        document.getElementById("site").className = document.getElementById("site").className.replace(/nojs/i,'');
+    </script>
+</head>
+
+<body>
 
 	<nav class="nav-primary" role="navigation" >
     <ul>
@@ -18,6 +35,10 @@
         	<a class="active" href="/other.html">Other</a>
         </li>
         
+        <li>
+        	<a  href="/node_modules/grunt/node_modules/js-yaml/examples/sample_document.yaml"></a>
+        </li>
+        
     </ul>
 </nav>
 
@@ -25,5 +46,13 @@
 
     
 
-	</body>
+	<!-- Grab Google-hosted jQuery. Fall back to locally saved file if necessary. -->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="../static/js/vendor/jquery-1.10.2.min.js">\x3C/script>')</script>
+    <!--[if lt IE 9 ]> 
+    <script>(function() {$('body').addClass('iex');})();</script>
+    <![endif]-->
+    <script src="../static/dist/js/main.min.js"></script>
+
+</body>
 </html>

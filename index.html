@@ -3,14 +3,20 @@ layout: default
 title: Home
 ---
 
-<img src="{{ site.github.owner_gravatar_url }}" alt="{{ site.github.owner_name }}'s Gravatar">
+<div class="container align-center">
 
-<h1>A repository showcase <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></h1>
+    <img src="{{ site.github.owner_gravatar_url }}" alt="{{ site.github.owner_name }}'s Gravatar">
 
-<ul>
-{% for repo in site.github.public_repositories %}
-  
-  <li><a href="{{ repo.url }}">{{ repo.name }} - {{ repo.description }}</a></li>
+    <h1>A repository showcase for <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></h1>
 
-{% endfor %}
-</ul>
+    <ul class="repositories">
+    {% for repo in site.github.public_repositories %}
+      
+      <li>
+        <h2><a href="{{ repo.url }}">{{ repo.name }}</a></h2>
+        <p>{{ repo.description }}</p>
+      </li>
+
+    {% endfor %}
+    </ul>
+</div>
