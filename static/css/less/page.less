@@ -15,6 +15,49 @@
         
     }
 
+    canvas {
+        position: fixed;
+        top: 0;
+        left: 0;
+        -webkit-filter: blur(0.6px);
+        -moz-filter: blur(0.6px);
+        -o-filter: blur(0.6px);
+        -ms-filter: blur(0.6px);
+        filter: blur(0.6px);
+    }
+
+    nav,
+    main {
+        position: relative;
+        z-index: 1;
+    }
+
+    .profile-img {
+        position: relative;
+        width: 200px;
+        height: 200px;
+        margin-bottom: 20px;
+        .border-radius(120px);
+
+        &:before,
+        &:after {
+            content: '';
+            position: absolute;
+        }
+        &:before {
+            top: -6px; left: -6px;
+            width: 210px; height: 210px;
+            border-radius: 162px;
+            border: 1px solid #BCBCBC;
+        }
+        &:after {
+            top: -11px; left: -11px;
+            width: 220px; height: 220px;
+            border-radius: 172px;
+            border: 1px dashed #81BDA4;
+        }
+    }
+
     .repositories {
         li {
             width: 50%;

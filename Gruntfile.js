@@ -88,7 +88,8 @@ module.exports = function(grunt) {
       },
       all: {
         files: {
-          '<%= config.dist %>/js/main.min.js': ['<%= config.dev %>/js/main.js']
+          '<%= config.dist %>/js/main.min.js': '<%= config.dev %>/js/main.js',
+          '<%= config.dist %>/js/canvas.min.js': '<%= config.dev %>/js/canvas.js'
         }
       }
     },
