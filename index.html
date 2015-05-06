@@ -19,16 +19,15 @@ title: Home
       <li>
         <h2><a href="#" class="md-trigger" data-modal="modal-{{ repo.id }}">{{ repo.name }}</a></h2>
         <p>{{ repo.description }}</p>
+        <script>console.log('lol' + {{ repo }});</script>
       </li>
-
-      <script>(function() { console.log(repo); });</script>
+      
     {% endfor %}
     </ul>
 
     <div class="powered-by">
       <p>Hosted by <a href="http://github.com">Github</a>, powered by <a href="http://jekyllrb.com/">Jekyll</a></p>
     </div>
-
 </div>
 
 {% for repos in site.github.public_repositories %}
