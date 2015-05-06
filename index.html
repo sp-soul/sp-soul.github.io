@@ -17,10 +17,33 @@ title: Home
     {% for repo in site.github.public_repositories %}
       
       <li>
-        <h2><a href="repo.html/{{ repo.id }}">{{ repo.name }}</a></h2>
+        <h2><a href="#" class="md-trigger" data-modal="modal-{{ repo.id }}">{{ repo.name }}</a></h2>
         <p>{{ repo.description }}</p>
       </li>
 
+      <script>(function() { console.log(repo); });</script>
     {% endfor %}
     </ul>
+
+    <div class="powered-by">
+      <p>Hosted by <a href="http://github.com">Github</a>, powered by <a href="http://jekyllrb.com/">Jekyll</a></p>
+    </div>
+
 </div>
+
+{% for repos in site.github.public_repositories %}
+  <div class="md-modal md-effect-12" id="modal-{{ repos.id }}">
+    <div class="md-content">
+      <h3>{{ repos.name }}</h3>
+      <div>
+        <p>{{ repos.description }}</p>
+        <ul>
+          <li>Stars: <strong>{{ repos.stargazers_count }}</strong></li>
+        </ul>
+        <button class="md-close">Close me!</button>
+      </div>
+    </div>
+  </div>
+{% endfor %}
+
+<div class="md-overlay"></div><!-- the overlay element -->
