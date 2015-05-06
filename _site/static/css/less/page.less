@@ -42,6 +42,7 @@
         img {
             text-align: center;
             .border-radius(120px);
+            .transition(~"all 0.3 ease-in-out");
         }
         &:hover {
             img {
@@ -51,6 +52,8 @@
                 -ms-filter: blur(2px);
                 filter: blur(2px);
                 opacity: 0.8;
+                cursor: pointer;
+                .transition(~"all 0.3 ease-in-out");
             }
         }
         &:before,
@@ -77,11 +80,17 @@
     }
 
     .repositories {
+        margin-top: 50px;
+
         li {
             width: 50%;
             float: left;
             margin-bottom: 40px;
             text-align: center;
+
+            &:nth-child(odd) {
+                clear: left;
+            }
 
             p {
                 padding: 0 50px;
