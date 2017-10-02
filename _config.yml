@@ -1,6 +1,0 @@
-#
-# Jekyll Settings
-#
-markdown: redcarpet
-redcarpet:
-  extensions: ["tables"]

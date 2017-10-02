@@ -1,47 +1,12 @@
----
-layout: default
-title: Home
----
-
-<div class="container align-center">
-  
-    <div class="profile-img">
-      <a href="http://mrfirthy.me">
-        <img src="{{ site.github.owner_gravatar_url }}" alt="{{ site.github.owner_name }}'s Gravatar">
-      </a>
-    </div>
-
-    <h1>A repository showcase for <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></h1>
-
-    <ul class="repositories">
-    {% for repo in site.github.public_repositories %}
-      
-      <li>
-        <h2><a href="#" class="md-trigger" data-modal="modal-{{ repo.id }}">{{ repo.name }}</a></h2>
-        <p>{{ repo.description }}</p>
-      </li>
-      
-    {% endfor %}
-    </ul>
-
-    <div class="powered-by">
-      <p>Hosted by <a href="http://github.com">Github</a>, powered by <a href="http://jekyllrb.com/">Jekyll</a></p>
-    </div>
-</div>
-
-{% for repos in site.github.public_repositories %}
-  <div class="md-modal md-effect-12" id="modal-{{ repos.id }}">
-    <div class="md-content">
-      <h3>{{ repos.name }}</h3>
-      <div>
-        <p>{{ repos.description }}</p>
-        <ul>
-          <li>Stars: <strong>{{ repos.stargazers_count }}</strong></li>
-        </ul>
-        <button class="md-close">Close me!</button>
-      </div>
-    </div>
-  </div>
-{% endfor %}
-
-<div class="md-overlay"></div><!-- the overlay element -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>MrFirthy</title>
+</head>
+<body>
+	<h1>Hello, world!</h1>
+	<a href="/code-commenting/sassdoc">Sassdoc</a>
+	<a href="/code-commenting/react-docgen">react-docgen</a>
+</body>
+</html>
