@@ -1,0 +1,6 @@
+Sitemap: http://www.mrfirthy.me/sitemap.xml
+User-agent: *
+Allow: /
+Disallow: /forum/
+Disallow: /scripts/
+Disallow: /channel/
