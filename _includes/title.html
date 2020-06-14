@@ -1,6 +1,6 @@
-{% if include.tag %}
-<h2 class="h1"><a href="{{ site.url }}" class="home-link">Ashley Firth</a></h2>
-{% else %}
-<h1>Ashley Firth</h1>
-{% endif %}
+{% if include.tag %}<h2 class="h1">{% else %}<h1>{% endif %}
+    <a href="{{ site.url }}" class="home-link">
+        Ashley Firth
+    </a>
+{% if include.tag %}</h2>{% else %}</h1>{% endif %}
 <p>Front-end Developer / Author / Manager / Speaker</p>
