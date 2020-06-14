@@ -32,14 +32,27 @@
     }
 }
 
+.back-link {
+    position: absolute;
+    top: 1.6rem;
+    left: 1rem;
+    font-size: 4rem;
+    @include link-style(currentColor, none);
+
+    @media (min-width: $mobile) {
+        position: static;
+        top: auto;
+        left: auto;
+    }
+}
+
 .night {
     .home-link {
-        color: $link-reverse;
+        @include link-style($link-reverse);
+    }
 
-        &:hover,
-        &:focus {
-            color: $link-reverse;
-        }
+    .back-link {
+        @include link-style($text-reverse);
     }
 }
 

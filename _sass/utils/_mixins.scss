@@ -1,0 +1,15 @@
+/* -----------------------------------------------------------------------------
+ * Mixins
+ * -------------------------------------------------------------------------- */
+
+@mixin link-style($color: currentColor, $underline: underline) {
+    color: $color;
+
+    &:hover,
+    &:focus {
+        color: $color;
+        @if $underline {
+            text-decoration: $underline;
+        }
+    }
+}
