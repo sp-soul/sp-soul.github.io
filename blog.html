@@ -1,0 +1,20 @@
+---
+layout: page
+title: Ashley Firth - Blog
+---
+
+<h2 class="h1">Blog</h2>
+
+<div class="posts">
+    {% for post in site.posts %}
+        <div class="post">
+            <h3>
+                <a class="post__link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            </h3>
+            <p class="post__meta">{{ post.date | date: "%b %-d, %Y" }}</p>
+            {{ post.excerpt }}
+        </div>
+    {% endfor %}
+</div>
+
+<p>You can <a href="{{ site.url }}/feed.xml">subscribe via RSS here</a></p>
