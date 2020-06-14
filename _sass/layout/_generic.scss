@@ -32,6 +32,17 @@
     }
 }
 
+.night {
+    .home-link {
+        color: $link-reverse;
+
+        &:hover,
+        &:focus {
+            color: $link-reverse;
+        }
+    }
+}
+
 .section { margin-bottom: 6.4rem; }
 
 .role { margin-bottom: 4.8rem; }

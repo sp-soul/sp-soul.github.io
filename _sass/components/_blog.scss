@@ -52,14 +52,76 @@
     }
 }
 
-.post-header:before {
-    width: 8rem;
-    height: 16rem;
-    display: inline-block;
-    content: '';
-    -webkit-mask: url(../img/person.svg) no-repeat 50% 50%;
-    mask: url(../img/person.svg) no-repeat 50% 50%;
-    -webkit-mask-size: cover;
-    mask-size: cover;
-    background-color: currentColor;
+blockquote {
+    &.question,
+    &.answer {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding-left: 0;
+        margin: 3.2rem 0;
+
+        p {
+            &:before,
+            &:after {
+                font-size: 3rem;
+            }
+
+            &:before {
+                margin-right: 0.4rem;
+                content: open-quote;
+            }
+
+            &:after {
+                margin-left: 0.4rem;
+                content: close-quote;
+            }
+        }
+    }
+
+    &.question:before,
+    &.answer:after {
+        position: static;
+        top: 0;
+        flex-basis: 6rem;
+        display: inline-block;
+        width: 6rem;
+        min-width: 6rem;
+        height: 12rem;
+        content: '';
+        -webkit-mask: url(../img/person.svg) no-repeat 50% 50%;
+        mask: url(../img/person.svg) no-repeat 50% 50%;
+        -webkit-mask-size: cover;
+        mask-size: cover;
+        background-color: $text;
+    }
+
+    &.question {
+        &:before {
+            margin-right: 2rem;
+        }
+    }
+
+    &.answer {
+
+        &:before {
+            position: static;
+            content: none;
+        }
+
+        &:after {
+            margin-left: 2rem;
+            transform: scaleX(-1);
+        }
+    }
+}
+
+.night {
+
+    blockquote {
+        &.question:before,
+        &.answer:after {
+            background-color: $text-reverse;
+        }
+    }
 }
