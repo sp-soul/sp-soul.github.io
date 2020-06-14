@@ -1,3 +1,8 @@
 name: MrFirthy's Portfolio
 title: MrFirthy's Portfolio
 markdown: kramdown
+assets:
+  autoprefixer:
+    browsers:
+    - "last 2 versions"
+    - "IE > 9"
