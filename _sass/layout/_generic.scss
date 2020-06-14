@@ -23,6 +23,15 @@
     p { margin-bottom: .4rem; }
 }
 
+.home-link {
+    color: $text;
+
+    &:hover,
+    &:focus {
+        color: $text;
+    }
+}
+
 .section { margin-bottom: 6.4rem; }
 
 .role { margin-bottom: 4.8rem; }
