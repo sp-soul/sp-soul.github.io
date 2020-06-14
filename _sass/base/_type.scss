@@ -99,9 +99,7 @@ em {
 blockquote {
     position: relative;
     padding-left: 7.2rem;
-    margin-right: 0;
-    margin-bottom: 3.2rem;
-    margin-left: 0;
+    margin: 4rem 0;
     font-style: italic;
 
     &:before {
@@ -111,7 +109,7 @@ blockquote {
         font-size: 10.5rem;
         font-style: normal;
         font-weight: 800;
-        color: #000000;
+        color: currentColor;
         content: '“';
     }
 

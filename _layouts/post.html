@@ -3,10 +3,17 @@ layout: default
 ---
 
 <div class="content">
+    <a href="javascript:history.back()" class="back-link">
+        <span aria-hidden="true">&times;</span>
+        <span class="sr-only">Back to blog</span>
+    </a>
+
     <div class="post post__content">
-        <header class="post-header">
+        <header>
             <h1>{{ page.title }}</h1>
-            <p>{{ page.date | date: "%b %-d, %Y" }}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+            <p class="post__reading-time">
+                {{ page.date | date: "%B %-d, %Y" }}{% if page.meta %} • {{ page.meta }}{% endif %} / Reading time: {{ page.readingtime }}
+            </p>
         </header>
 
         <article class="post-content">
