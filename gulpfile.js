@@ -253,10 +253,8 @@ gulp.task('clean', gulp.series('clear', function(done) {
 var devTasks = ['css', 'vendorCSS', 'additionalJS', 'globalJS', 'vendorJS', 'img', 'documents'];
 gulp.task('browser-sync', gulp.series(devTasks, function() {
     browserSync.init({
-        open: false,
-        server: {
-            baseDir: "./"
-        }
+        proxy: 'localhost:4000',
+        open: false
     });
 
     // Begin polling target directories for changes

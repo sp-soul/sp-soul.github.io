@@ -21,7 +21,7 @@ h1,
     font-family: 'Noto Serif JP', serif;
     font-size: 4.8rem;
     font-weight: 700;
-    line-height: 5.4rem;
+    line-height: 6.0rem;
     letter-spacing: -.1rem;
 }
 
@@ -44,7 +44,7 @@ h2,
     margin: 3.2rem 0 2.4rem;
     font-size: 3.2rem;
     font-weight: 800;
-    line-height: 3.8rem;
+    line-height: 4.8rem;
     letter-spacing: -.1rem;
 }
 
@@ -52,7 +52,7 @@ h3,
 .h3 {
     margin: 2.4rem 0 2.0rem;
     font-size: 2.8rem;
-    line-height: 3.2rem;
+    line-height: 4.2rem;
     letter-spacing: -.05rem;
 }
 
@@ -60,7 +60,7 @@ h4,
 .h4 {
     margin: 2.0rem 0 1.6rem;
     font-size: 2.4rem;
-    line-height: 2.8rem;
+    line-height: 3.6rem;
     letter-spacing: -.035rem;
 }
 
@@ -68,7 +68,7 @@ h5,
 .h5 {
     margin: 2.0rem 0 1.6rem;
     font-size: 2.0rem;
-    line-height: 2.4rem;
+    line-height: 3rem;
     letter-spacing: -.035rem;
 }
 
@@ -76,7 +76,7 @@ h6,
 .h6 {
     margin: 2.0rem 0 1.6rem;
     font-size: 1.8rem;
-    line-height: 2.3rem;
+    line-height: 2.7rem;
     letter-spacing: -.035rem;
 }
 
@@ -122,5 +122,21 @@ blockquote {
         font-weight: 400;
         color: #ececec;
         text-transform: uppercase;
+    }
+}
+
+code {
+    padding: 0.2rem;
+    background-color: darken($background, 10%);
+}
+
+pre code {
+    display: block;
+    padding: 1rem;
+}
+
+.night {
+    code {
+        background-color: lighten($background-reverse, 10%);
     }
 }

@@ -11,11 +11,15 @@ body {
     color: $text;
     text-align: center;
     background: $background;
-    transition: background .5s ease-in-out;
+    transition: all .5s ease-in-out;
 
     @media (min-width: $phone) {
         padding: 0;
     }
+}
+
+img {
+    max-width: 100%;
 }
 
 ul {

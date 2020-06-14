@@ -2,14 +2,8 @@
 <html lang="en-gb">
 	{% include head.html %}
 
-	<body>
-		<div class="content">
-			{% include title.html %}
-
-			{% include links.html %}
-
-            {{ content }}
-        </div>
+	<body class="{{ page.class }}">
+		{{ content }}
 
     	{% include switcher.html %}
 	</body>
