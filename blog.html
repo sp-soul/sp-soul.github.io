@@ -12,7 +12,9 @@ permalink: blog/
             <h3>
                 <a class="post__link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
             </h3>
-            <p class="post__meta">{{ post.date | date: "%b %-d, %Y" }}</p>
+            <p class="post__reading-time">
+                {{ post.date | date: "%B %-d, %Y" }}{% if post.meta %} • {{ post.meta }}{% endif %} / Reading time: {{ post.readingtime }}
+            </p>
             {{ post.excerpt }}
         </div>
     {% endfor %}
