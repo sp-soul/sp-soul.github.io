@@ -1,0 +1,41 @@
+---
+layout: page
+title: Ashley Firth - Blog
+---
+
+<h2 class="h1">Blog</h2>
+
+<div class="posts">
+    {% for post in paginator.posts %}
+        <div class="post">
+            <h3>
+                <a class="post__link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            </h3>
+            <p class="post__reading-time">
+                {{ post.date | date: "%B %-d, %Y" }}{% if post.meta %} • {{ post.meta }}{% endif %} / Reading time: {{ post.readingtime }}
+            </p>
+            {{ post.excerpt }}
+        </div>
+    {% endfor %}
+</div>
+
+<!-- Pagination links -->
+<div class="pagination">
+    {% if paginator.previous_page %}
+        <a href="{{ paginator.previous_page_path }}" class="previous">
+            Previous
+        </a>
+    {% else %}
+        <span class="previous">Previous</span>
+    {% endif %}
+        <span class="page_number ">
+            Page: {{ paginator.page }} of {{ paginator.total_pages }}
+        </span>
+    {% if paginator.next_page %}
+        <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+    {% else %}
+        <span class="next">Next</span>
+    {% endif %}
+</div>
+
+<p>You can <a href="{{ site.url }}/feed.xml">subscribe via RSS here</a></p>

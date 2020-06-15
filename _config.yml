@@ -6,3 +6,7 @@ assets:
     browsers:
     - "last 2 versions"
     - "IE > 9"
+plugins:
+  - jekyll-paginate
+paginate: 5
+paginate_path: "/blog/page:num/"

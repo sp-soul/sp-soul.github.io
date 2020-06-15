@@ -262,6 +262,7 @@ DEPENDENCIES
   autoprefixer-rails
   github-pages
   jekyll-assets
+  jekyll-paginate
 
 BUNDLED WITH
    2.1.4
