@@ -5,6 +5,7 @@ title:  "This is my test post but it is now a lot longer than before"
 date:   2020-06-14
 readingtime: ~1 minute
 permalink: /blog/:title
+tags: octopus accessibility
 ---
 
 This is the first line of my post, and it tells you a bit about what the dealis.

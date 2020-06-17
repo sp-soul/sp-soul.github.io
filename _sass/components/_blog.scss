@@ -66,6 +66,24 @@
             font-weight: 400;
         }
     }
+
+    .tags {
+        @media (min-width: $mobile) {
+            display: inline;
+
+            &:before {
+                content: '/';
+            }
+        }
+
+        .tag {
+            @media (min-width: $mobile) {
+                &:first-child {
+                    margin-left: 0.2rem;
+                }
+            }
+        }
+    }
 }
 
 .pagination {
@@ -140,12 +158,51 @@ blockquote {
     }
 }
 
+.tags {
+    display: block;
+    margin-top: 3.2rem;
+
+    &:before {
+        content: none;
+    }
+}
+
+.tag {
+    display: inline-block;
+    padding: 0 0.8rem;
+    margin-right: 0.5rem;
+    margin-bottom: 0.5rem;
+    font-size: 1.6rem;
+    line-height: 2.4rem;
+    color: white;
+    background-color: $link;
+    border-radius: 0.2rem;
+    transition: all .2s ease-in;
+
+    &:hover,
+    &:focus {
+        color: white;
+        text-decoration: none;
+        background-color: darken($link, 5%);
+    }
+}
+
 .night {
 
     blockquote {
         &.question:before,
         &.answer:after {
             background-color: $text-reverse;
+        }
+    }
+
+    .tag {
+        color: black;
+        background-color: $link-reverse;
+
+        &:hover,
+        &:focus {
+            background-color: darken($link-reverse, 5%);
         }
     }
 }
