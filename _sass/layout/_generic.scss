@@ -2,7 +2,7 @@
  * Generic
  * -------------------------------------------------------------------------- */
 
-.links {
+nav {
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
@@ -13,14 +13,19 @@
         flex-direction: row;
     }
 
-    > div {
+    > ul {
+        padding-left: 0;
+        margin: 0;
 
         @media (min-width: $container) {
             width: 50%;
         }
-    }
 
-    p { margin-bottom: .4rem; }
+        li {
+            margin-bottom: 0.4rem;
+            list-style-type: none;
+        }
+    }
 }
 
 .home-link {

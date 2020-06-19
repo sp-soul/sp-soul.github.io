@@ -3,8 +3,10 @@ layout: default
 ---
 
 <div class="content">
-    {% include title.html %}
-    {% include links.html %}
+    <header>
+        {% include title.html %}
+        {% include nav.html %}
+    </header>
 
     <main id="main-content">
         {{ content }}
