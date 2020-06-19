@@ -1,5 +1,6 @@
 name: MrFirthy's Portfolio
 title: MrFirthy's Portfolio
+github: [metadata]
 markdown: kramdown
 assets:
   autoprefixer:

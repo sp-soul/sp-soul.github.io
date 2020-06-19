@@ -47,3 +47,34 @@ ul {
         width: $container;
     }
 }
+
+/* -----------------------------------------------------------------------------
+ * Skip to main content link
+ * -------------------------------------------------------------------------- */
+
+.skip-to-content {
+    position: absolute;
+    top: -10rem;
+    left: 1em;
+    z-index: 1000;
+    padding: 0.2rem 0.8rem;
+
+    &:focus {
+        position: absolute;
+        top: 1.3rem;
+        color: white;
+        text-decoration: none;
+        background: $link;
+        outline-color: lighten($link, 15%);
+    }
+}
+
+.night {
+    .skip-to-content {
+        &:focus {
+            color: black;
+            background: $link-reverse;
+            outline-color: lighten($link-reverse, 15%);
+        }
+    }
+}
