@@ -3,17 +3,15 @@ layout: page
 title: Ashley Firth - Blog
 ---
 
-<div>
 <h2 class="h1">Blog</h2>
 
 {% include tags.html %}
-</div>
 
-<div class="posts">
+<section class="posts">
     {% for post in paginator.posts %}
         {% include post-overview.html %}
     {% endfor %}
-</div>
+</section>
 
 {% if paginator.total_posts > paginator.per_page %}
     <div class="pagination">

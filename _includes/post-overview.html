@@ -1,4 +1,4 @@
-<div class="post">
+<article class="post">
     <h3>
         <a class="post__link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
     </h3>
@@ -6,4 +6,4 @@
         {{ post.date | date: "%B %-d, %Y" }}{% if post.meta %} • {{ post.meta }}{% endif %} / Reading time: {{ post.readingtime }}
     </p>
     {{ post.excerpt }}
-</div>
+</article>
