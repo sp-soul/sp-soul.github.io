@@ -14,7 +14,7 @@ nav {
     }
 
     > ul {
-        padding-left: 0;
+        padding: 0;
         margin: 0;
 
         @media (min-width: $container) {
@@ -22,7 +22,9 @@ nav {
         }
 
         li {
+            padding: 0;
             margin-bottom: 0.4rem;
+            border-left: 0;
             list-style-type: none;
         }
     }
