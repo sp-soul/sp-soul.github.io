@@ -43,6 +43,13 @@
 
 .blog-entry {
 
+    img {
+
+        @media (min-width: $mobile) {
+            width: 80%;
+        }
+    }
+
     .content {
         position: relative;
         padding-top: 12rem;
