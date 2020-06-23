@@ -5,7 +5,7 @@ title:  "Good ways to manage a remote team in lockdown"
 date:   2020-06-23
 readingtime: ~11 minutes
 permalink: /blog/:title
-tags: management
+tags: management octopus
 ---
 
 Just before lockdown, someone in my team mentioned to me her plan to live away from London (our base for all tech roles at Octopus Energy) permanently.
