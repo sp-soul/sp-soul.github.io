@@ -5,5 +5,7 @@
     <p class="post__reading-time">
         {{ post.date | date: "%B %-d, %Y" }}{% if post.meta %} • {{ post.meta }}{% endif %} / Reading time: {{ post.readingtime }}
     </p>
-    {{ post.excerpt }}
+    <p>
+        {{ post.excerpt }}
+    </p>
 </article>

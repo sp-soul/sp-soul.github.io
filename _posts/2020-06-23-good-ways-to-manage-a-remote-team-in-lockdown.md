@@ -1,7 +1,8 @@
 ---
 layout: post
 class: blog-entry
-title:  "Good ways to manage a remote team in lockdown"
+title: "Good ways to manage a remote team in lockdown"
+excerpt: "We’re experiencing remote working that we didn’t ask for. That changes a teams mindset, and as managers we need to work hard to help."
 date:   2020-06-23
 readingtime: ~11 minutes
 permalink: /blog/:title
@@ -121,7 +122,7 @@ As much as you may want to avoid it given just how many quizzes people have sat 
 ## That’s it
 All of this is such a work in progress, and not all of them work for everyone. The key theme though is that I’ve tried them.
 
-> As a leader I feel it’s important to put the work in to offer options to your team, even if the answer is “I’d prefer to just relax away from my computer
+> As a leader I feel it’s important to put the work in to offer options to your team, even if the answer is 'I’d prefer to just relax away from my computer'
 {:.answer}
 
 Which is completely fine. People will deal with this situation in their own way. All I can do is try and cultivate a positive energy, throw some ideas out, and see what sticks.
