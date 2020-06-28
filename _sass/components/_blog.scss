@@ -48,6 +48,12 @@
         @media (min-width: $mobile) {
             width: 80%;
         }
+
+        &.portrait {
+            @media (min-width: $mobile) {
+                width: 40%;
+            }
+        }
     }
 
     .content {
