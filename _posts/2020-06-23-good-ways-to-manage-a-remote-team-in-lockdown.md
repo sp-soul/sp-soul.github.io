@@ -3,7 +3,7 @@ layout: post
 class: blog-entry
 title: "Good ways to manage a remote team in lockdown"
 excerpt: "We’re experiencing remote working that we didn’t ask for. That changes a teams mindset, and as managers we need to work hard to help."
-date:   2020-06-23
+date: 2020-06-23
 readingtime: ~11 minutes
 permalink: /blog/:title
 tags: management octopus
@@ -47,7 +47,7 @@ The same freedom also applies for when someone wants to get on with some work wi
 
 I end my week these days by writing a status update for front-end’s work for the week. I’ve been doing it for a few weeks now and I love doing it. It provides me with a neat end point for the working week, and I can share it with a range of people so they can see how their work is going without fielding a lot of extra questions. Most importantly though, everyone in the team gets to reflect on what we’ve accomplished together over the course of the week.
 
-![An example of the layout of an Asana weekly progress update](/static/img/posts/good-ways-to-manage-a-remote-team-in-lockdown/asana-progress-update.jpg "Logo Title Text 1")
+![An example of the layout of an Asana weekly progress update](/static/img/posts/good-ways-to-manage-a-remote-team-in-lockdown/asana-progress-update.jpg){:loading="lazy"}
 
 Team members can read how other sub teams are doing (the department has three sub-teams named after the three original pokemon starters. You may laugh but, as naming conventions go, I have room for literally hundreds of new teams before I run out…you’re still smirking, aren’t you?).
 
