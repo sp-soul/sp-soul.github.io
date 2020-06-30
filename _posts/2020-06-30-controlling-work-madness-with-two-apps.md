@@ -2,7 +2,7 @@
 layout: post
 class: blog-entry
 title: "Controlling the madness of work with two apps"
-excerpt: "I'm fascinated by the mindset where spending £5 on a beer is perfectly reasonable, but spending the same on an app that you’ll likely use forever feels excessive."
+excerpt: "I needed to stop trusting my brain with loads of small things. If it didn't feel swamped by those, I could give far bigger things the time they deserve."
 date: 2020-06-30
 readingtime: ~10 minutes
 permalink: /blog/:title
