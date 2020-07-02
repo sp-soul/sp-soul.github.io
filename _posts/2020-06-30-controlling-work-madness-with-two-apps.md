@@ -142,3 +142,5 @@ So there you have it! As with most apps, you have to fully commit to using these
 
 > You have to be pedantic about the use, otherwise it loses all of its power. When something needs to go in there, I stop what I’m doing right away and add it - it becomes a habit really quickly.
 {:.answer}
+
+**EDIT: Having received some advice from the great and Powerful [David Winterbottom](https://codeinthehole.com), I'd recommend [this Alfred integration for Bear](https://github.com/drgrib/alfred-bear) by Chris Redford instead. It's more feature-rich, and is apparently significantly quicker when you have a lot of notes.**
