@@ -133,6 +133,10 @@ pre code {
     padding: 1rem;
 }
 
+.emoji {
+    font-size: 4rem;
+}
+
 .night {
     code {
         background-color: lighten($background-reverse, 10%);
