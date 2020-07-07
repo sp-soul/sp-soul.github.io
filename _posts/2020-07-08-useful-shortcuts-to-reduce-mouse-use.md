@@ -9,7 +9,7 @@ permalink: /blog/:title
 tags: productivity coding
 ---
 
-I’ve had a bit of wrist pain recently. It could well be because lockdown has me spending more hours than ever at a computer (who knew commuting was good for something), or that my remote setup is *just*  different enough that pressure is being put on the wrong places. Either way, I’ve been trying to use the keyboard more and the mouse less in order to reduce the “micro-movements” that using a mouse of trackpad require.
+I’ve had a bit of wrist pain recently. It could well be because lockdown has me spending more hours than ever at a computer (who knew commuting was good for something), or that my remote setup is *just*  different enough that pressure is being put on the wrong places. Either way, I’ve been trying to use the keyboard more and the mouse less in order to reduce the “micro-movements” that using a mouse or trackpad require.
 
 More generally though, getting to grips with shortcuts can help you move around a computer consistently quicker, and they remain useful when you’re working on a laptop and not just on a full desktop setup. This isn’t a post of one hundred shortcuts that you’ll never remember though - I’ve got a few general ones I think everyone should know, and some apps that have great ones I use many times a day.
 
@@ -17,7 +17,7 @@ More generally though, getting to grips with shortcuts can help you move around 
 
 ## Mac shortcuts
 ### Smaller changes in Sound & brightness
-I’m stunned this isn’t shared more often. Every time you hit the brightness or  volume buttons, it adjust the level by one increment. This is simple, but maybe there are times where you’d like to tweak these levels by *just a little bit*. Perhaps one volume setting isn’t quite loud enough, but the next one up is somehow just too loud. This is easily fixed by adding `Shift + Option`, and more granular control is yours!
+I’m stunned this isn’t shared more often. Every time you hit the brightness or  volume buttons, it'll adjust the level by one increment. This is simple, but maybe there are times where you’d like to tweak these levels by *just a little bit*. Perhaps one volume setting isn’t quite loud enough, but the next one up is somehow just too loud. This is easily fixed by adding `Shift + Option`, and more granular control is yours!
 
 ![A keyboard showing the Shift + Option + F12 Shortcut](/static/img/posts/useful-shortcuts-to-reduce-mouse-use/keyboard-shift-option-f12.png){:loading="lazy"}
 
@@ -33,25 +33,25 @@ Change brightness in smaller increments
 Most people know that you can take a screenshot on a mac, but there are a few ways you can do this!
 
 ![A keyboard showing the Shift + CMD + 3 Shortcut](/static/img/posts/useful-shortcuts-to-reduce-mouse-use/keyboard-shift-command-3.png){:loading="lazy"}
-- `CMD + Shift + 3` – Take a snapshot of your entire screen.
-- `CMD + Shift + 4` – Turn your cursor into a set of crosshairs that will let you select a specific area of your screen.
-- `CMD + Shift + 4 + Spacebar` – Hit these keys to screenshot only your current window (e.g., browser window, specific app, etc.) without altering its dimensions.
+- `CMD + Shift + 3` – Take a snapshot of your entire screen
+- `CMD + Shift + 4` – Turn your cursor into a set of crosshairs that will let you select a specific area of your screen
+- `CMD + Shift + 4 + Spacebar` – Hit these keys to screenshot only your current window (e.g., browser window, specific app, etc.) without altering its dimensions
 
 ### General good ones
 - `CMD + ~` - switch between windows of the same app
 - `CMD + M` - minimising a window
-- `CMD + ,` - typically brings up preferences for an application.
+- `CMD + ,` - typically brings up preferences for an application
 - `CMD + Shift + Delete` - Empty Trash (opens confirmation dialog)
 - `Option + CMD + Eject` - Go to sleep
 
 ## Google Chrome
 ![A keyboard showing the Shift + CMD + T Shortcut](/static/img/posts/useful-shortcuts-to-reduce-mouse-use/keyboard-shift-command-t.png){:loading="lazy"}
 
-`Shift + CMD + T` re-open last closed tab (an absolute life-saver in Google Chrome
+`Shift + CMD + T` - re-opens your last closed tab (an absolute life-saver in Google Chrome)
 
 ![A keyboard showing the CMD + L Shortcut](/static/img/posts/useful-shortcuts-to-reduce-mouse-use/keyboard-command-l.png){:class="mt-img" loading="lazy"}
 
-`CMD + L` Focus on address bar in Google Chrome
+`CMD + L` - focus on address bar in Google Chrome
 
 ![A keyboard showing the Shift + Option + Arrow Shortcut](/static/img/posts/useful-shortcuts-to-reduce-mouse-use/keyboard-shift-option-arrow.png){:class="mt-img" loading="lazy"}
 
@@ -81,7 +81,7 @@ The only drawback sometimes is that some of the reference names aren’t quite w
 ⚡
 {:class="emoji"}
 
-most people (myself included) would type `lightning` or `thunder`, but its name is actually `zap`…
+most people (myself included) would type `lightening` or `thunder`, but its name is actually `zap`…
 
 ## Apps
 A lot of my initial trouble with non-keyboard movement up until now was around searching for apps, or switching between them. `CMD + Tab` is mostly useful for switching back and forth between the two most recently used apps quickly, but when you haven’t used the app you’re looking for in a while, even this shortcut becomes arduous.
@@ -116,10 +116,10 @@ hs.hotkey.bind(mash, 'V', function() hs.application.launchOrFocus('Visual Studio
 
 ```
 
-With this set up I can, for example, use `CMD + OPTION + G` to head straight to Google Chrome. Think about all of the typically interactions you might use to find Google Chrome:
+With this set up I can, for example, use `CMD + OPTION + G` to head straight to Google Chrome. Think about all of the typical interactions you might use to find Google Chrome:
 
 - 🖱 Navigated with a mouse/trackpad to the dock and click on the icon
-- 🕰  `CMD + Tab` to open the application selector and cycle to Google Chrome (Could be quite a few if you have a lot of application in)
+- 🕰  `CMD + Tab` to open the application selector and cycle to Google Chrome (could be quite a few if you have a lot of applications open)
 - 🖱 If it’s visible on screen, moving your cursor to the window and clicking on it
 - 🖱 Clicking through the applications folder to find Google Chrome
 
