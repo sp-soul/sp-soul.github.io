@@ -24,6 +24,11 @@ img {
 
 ul {
     padding-bottom: 0.5rem;
+    padding-left: 1.6rem;
+
+    @media (min-width: $phone) {
+        padding-left: 4rem;
+    }
 
     li {
         padding: 0.4rem 0 0.4rem 2rem;

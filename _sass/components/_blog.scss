@@ -43,6 +43,12 @@
 
 .blog-entry {
 
+    h1 {
+        @media (max-width: $phone) {
+            margin-top: 0;
+        }
+    }
+
     img {
 
         @media (min-width: $mobile) {
@@ -58,8 +64,12 @@
 
     .content {
         position: relative;
-        padding-top: 12rem;
+        padding-top: 2rem;
         padding-bottom: 8rem;
+
+        @media (min-width: $phone) {
+            padding-top: 12rem;
+        }
     }
 
     .day-night-switcher {

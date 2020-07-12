@@ -128,9 +128,16 @@ code {
     background-color: darken($background, 10%);
 }
 
-pre code {
-    display: block;
-    padding: 1rem;
+pre {
+
+    &.highlight {
+        background-color: darken($background, 10%);
+    }
+
+    code {
+        display: block;
+        padding: 1rem;
+    }
 }
 
 .emoji {
