@@ -18,8 +18,16 @@
 
 .mt-img {
     margin-top: 4rem;
+
+    &--bumper {
+        margin-top: 0.5rem;
+    }
 }
 
 .mb-img {
     margin-bottom: 4rem;
+
+    &--bumper {
+        margin-bottom: 0.5rem;
+    }
 }
