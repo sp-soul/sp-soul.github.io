@@ -2,7 +2,7 @@
 layout: post
 class: blog-entry
 title: "A few ways to improve your home office"
-excerpt: "Changing volume or brightness by smaller amounts, re-opening the tab you just closed, typing out emojis, and quite a few more."
+excerpt: "With the date we all return to offices being a moving target, it might be worth making a few tweaks to your remote setup to make the time a little more enjoyable."
 date: 2020-07-15
 readingtime: ~10 minutes
 permalink: /blog/:title
