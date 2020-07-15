@@ -13,7 +13,7 @@ A couple of people have asked me about this, so I thought I’d share a quick po
 
 I feel like there’s a tricky middle ground that’s been created at the moment - most people know that they’ll be heading back to an office in the short - medium future and so don’t want to spend too much on a setup they won’t use often, but equally that date of return is a moving target, and so you could end up using what you have now for a while longer.
 
-Luckily nothing in this setup was particular expensive. In truth, I had actually done a fair bit of it last year for when I was writing my book. I knew that I’d be spending a lot more time at the home desk than I had before, and so resolved to spend a small amount of money to create a reasonably pleasant set up. It didn’t make writing for hours with the sun shining outside all summer, but it was a consolation. This is what it looks like today:
+Luckily nothing in this setup was particular expensive. In truth, I’d arranged a fair bit of the setup last year whilst I was writing my book. I knew that I’d be spending a lot more time at the home desk than I had before, and so resolved to spend a small amount of money to create a reasonably pleasant setup. It didn’t make writing for hours with the sun shining outside all summer, but it was a consolation. This is what it looks like today:
 
 ![A side-on view of my home setup](/static/img/posts/a-few-ways-to-improve-your-home-office/setup-side.jpg){:class="portrait" loading="lazy"}
 ![A front-on view of my home setup](/static/img/posts/a-few-ways-to-improve-your-home-office/setup-front.jpg){:class="portrait" loading="lazy"}
@@ -22,9 +22,9 @@ Luckily nothing in this setup was particular expensive. In truth, I had actually
 Here is a brief breakdown of the main components to it, how I got them, and why (or whether) I think they add value:
 
 ## A monitor arm
-In my case it’s a dual screen version, but they create arms for any number of monitors, and I’m a real fan of them. Because you can change the angle and orientation of the screens on the arm, they’re capable of working with just about any setup. For example, I used to have one landscape monitor and one portrait one (for longer articles and code reviews). The main issue with this was that the different positions caused a lot of head and neck movements when switching my attention between the two many times a day. As a result, I decided to keep them consistent and with my eye-line in line with the top of the monitors.
+In my case it’s a dual screen version, but they create arms for any number of monitors, and I’m a real fan of them. Since you can change the angle and orientation of the screens on the arm, they’re capable of working with just about any setup. For example, I used to have one landscape monitor and one portrait one (for longer articles and code reviews). The main issue with this was that the different positions caused a lot of head and neck movements when switching my attention between the two many times a day. As a result, I decided to keep them consistent and with my eye-line in alignment with the top of the monitors.
 
-There’s nothing essential about having this in your setup, for me it’s just about creating as much consistency with my work setup as possible. That being said there are some benefits:
+There’s nothing essential about having this in your setup, for me it’s just about creating as much consistency with my work setup as possible. That being said, there are some benefits:
 - ☀️ You can change the position and angle of the screen at any point, which is nice for dealing with glare, or sharing your screen
 - 🧹 It makes the desk *a lot* cleaner. You lose the chunky monitor stands and gain a lot of free space.
 - 😍 Aesthetically it looks great. This adds nothing, its just worth saying!
@@ -47,8 +47,8 @@ If it helps, [this is the seller I purchased mine from](https://www.ebay.co.uk/u
 ## A simple laptop stand
 One thing I’ve found running dual monitors on a MacBook Pro (sorry that let me correct that: running *anything* on a MacBook Pro) is that it gets uncommonly hot and noisy. Because of that, getting airflow to it properly is really important to avoid everything becoming very slow, very quickly. For this I’d recommend a laptop stand that elevates it in some way. In my setup the laptop is usually closed, so I found a stand that places it upright, allowing for direct airflow to the bottom of the device. Not much more to say on this, but here is the stand I went for from Twelve South.
 
-## Noise-cancelling headphones
-The only thing worth spending a lot of money on in my opinion, and I invested in the [Bose QC35's](https://www.bose.co.uk/en_gb/products/headphones/over_ear_headphones/quietcomfort-35-wireless-ii.html#v=qc35_ii_black). I used these headphones every day before lockdown, and I continue to use them just as frequently. Although there aren’t the noises of a tube or office to contend with, homes can have just as many background distractions (perhaps even more!). With someone else living with me during lockdown, it certainly adds to the list of things capable of taking you out of your zone. There are *a lot* of great headphone choices out there, but here are a few reasons why I love the QC35’s:
+## Noise cancelling headphones
+The only thing worth spending a lot of money on in my opinion, and I invested in the [Bose QC35’s](https://www.bose.co.uk/en_gb/products/headphones/over_ear_headphones/quietcomfort-35-wireless-ii.html#v=qc35_ii_black). I used these headphones every day before lockdown, and I continue to use them just as frequently. Although you don’t have the noises of a tube or office to contend with, homes can have just as many background distractions (perhaps even more!). With someone else living with me during lockdown, it certainly adds to the list of things capable of taking you out of your zone. There are *a lot* of great headphone choices out there, but here are a few reasons why I love the QC35’s:
 
 - 🎛 They connect, and switch between, devices easily using the Bose Connect app
 - 🔌 They charge via mini-USB so there’s no niche cable to have to keep safe
@@ -61,16 +61,16 @@ The only thing worth spending a lot of money on in my opinion, and I invested in
 To talk about music briefly, if you find working with music in your ears is distracting, I’d recommend one of the following:
 - 🌧 Rainy mood - simple ambient rain noise is something I find insanely soothing
 - 🎬 Film soundtracks - The social network is a personal favourite
-- 💬 Podcasts - Long-form ones that are essentials rambling (like the Joe Rogan experience)
+- 💬 Podcasts - Long-form ones that are essentially rambling (like the Joe Rogan experience)
 
-Unlike most things on this list, good headphones will be useful everywhere - from home and office life to commuting and travelling.
+Unlike most things on this list, good headphones will be useful everywhere - from home and office life, to commuting and travelling.
 
 ## A wireless Keyboard
 As I mentioned in a [previous post]({% post_url 2020-07-08-useful-shortcuts-to-reduce-mouse-use %}), I’ve been trying to keep my actions on a computer as confined to a keyboard as possible. These days I find myself switching between two: The standard Apple wireless keyboard and the mechanical Keychron K4.
 
 ![Screenshot of the logitech options screen](/static/img/posts/a-few-ways-to-improve-your-home-office/keychron-k4.jpg){:loading="lazy"}
 
-The mechanical keyboard feels nicer and allows me to switch between devices with one keyboard command, but the angle of it sometimes causes a bit of wrist pain. It also has the potential to cause me bodily pain if someone at home gets *just* annoyed enough about the noise it puts out when I’m typing. It’s actually recommended to chance your setup now and again to prevent repetitive strain injuries (this is true of mice too - I sometimes switch to a magic trackpad, and a couple of people in my team even use a Wacom tablet as a way to navigate their computers).
+The mechanical keyboard feels nicer and allows me to switch between devices with one keyboard command, but the angle of it sometimes causes a bit of wrist pain. It also has the potential to cause me bodily pain if someone at home gets *just* annoyed enough about the noise it puts out when I’m typing. It’s actually recommended to change your setup now and again to prevent repetitive strain injuries (this is true of mice too - I sometimes switch to a magic trackpad, and a couple of people in my team even use a Wacom tablet as a way to navigate their computers).
 
 For the quieter and smaller Apple keyboard, I usually place it in my lap. This alters the angle I’m typing at and limits my wrist movement, and places the keyboard out of my eye line so that I can get better at touch-typing. This idea was shamefully stolen from [David Winterbottom](https://codeinthehole.com/tips/software-development-tips-part2/). Why not learn to touch-type during lockdown? Nobody will be around to see just how many mistakes you make at the start.
 
@@ -117,7 +117,7 @@ Feel free to skip right past this one. It’s just really cool. Anker sell wirel
 ### Typical desk lamp
 Positioned behind the screens to provide a bit of extra ambient light on slightly darker days.
 
-### Lights under where cables live
+### Lights where your cables live
 This is largely because my desk wasn’t made to hold a screen arm so after a bit of tactical DIY, the cable manager at the back of the desk no longer closed. Queue cheap LED lights to help hide the cables!
 
 ### A hard-drive to back up to
