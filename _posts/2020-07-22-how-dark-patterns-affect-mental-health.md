@@ -15,21 +15,21 @@ tags: accessibility
 
 
 ## What is a dark pattern?
-The phrase with coined by Harry Brignull, a UX designer. They are features of interface design crafted to **trick users** into doing things they might not want to do, but which benefit the business.
+The phrase was coined by Harry Brignull, a UX designer. They are features of interface design crafted to **trick users** into doing things they might not want to do, but which benefit the business.
 
 There’s a short video [about it here](https://youtu.be/kxkrdLI6e6M) if you’d like to check it out, and it’s prime example is my favourite - how do you go about cancelling your Amazon account?
 
-You might start by heading to the “my account” page:
+You might start by heading to the “Your Account” page:
 
 ![The your account section of Amazon](/static/img/posts/how-dark-patterns-affect-mental-health/amazon-your-account.jpg){:loading="lazy"}
 
 You could click any of these links but none of them would take you there. Here’s what you need to do:
 
 1. You scroll to the bottom of the page and select ‘Help’ out of the two-dozen links there.
-2. Of the 16 categories on the ‘help’ page, you need to select ‘Contact us’
-3. Of the 4 tabs that appear there you have to select ‘prime or something else’
-4. From the drop-down under ‘something else’ you have to select ‘login & security’
-5. From the next dropdown that appears you have to select ‘close an account’
+2. Of the 16 categories on the ‘Help’ page, you need to select ‘Contact us’
+3. Of the 4 tabs that appear there you have to select ‘Prime or something else’
+4. From the drop-down under ‘Something else’ you have to select ‘Login & security’
+5. From the next dropdown that appears you have to select ‘Close an account’
 6. Once here, you have to contact them directly to actually perform the action (this is a whole other problem which we’ll get to a little later)
 
 This is an example of a dark pattern. This one is known as a “roach motel” - something that seems appealing and is easy to get into, but very difficult to get out of.
@@ -38,13 +38,13 @@ This is an example of a dark pattern. This one is known as a “roach motel” -
 ## Why do sites use dark patterns?
 Because it works, and they can get away with it. These practices are known to increase conversion, retention, and pretty much every other metric known to measure success for businesses online. It’s also difficult to legislate when it comes to leveraging human psychology, and so holding businesses accountable here is hard to do.
 
-Part of the problem here is that there aren’t consistent ways to measure this impact. There is no mention of mental health disorders in WCAG 2.1. The closest thing in place is COGA (cognitive accessibility roadmap and gap analysis) - they’re working on a way to factor mental health into web accessibility, but anything iron-clad or ratified is a while away
+Part of the problem here is that there aren’t consistent ways to measure this impact. There is no mention of mental health disorders in WCAG 2.1. The closest thing in place is COGA (cognitive accessibility roadmap and gap analysis) - they’re working on a way to factor mental health into web accessibility, but anything iron-clad or ratified is a while away.
 
-Now there isn’t necessarily an issue with encouraging a user to do something isn’t necessarily. It’s *how* you do it, and whether you’re design, UX, and functionality is balancing the need for success with the need to take care of your users.
+Now there isn’t necessarily an issue with encouraging a user to do something specific. It’s *how* you do it, and whether your design, UX, and functionality is balancing the need for success with the need to take care of your users.
 
 
 ## Who is it affecting?
-Everyone experiences the effects of these tactics online, but they apply so much to those with mental health-oriented access needs. Those who struggle with a lack of motivation, are susceptible to periods of impulsivity, and those that suffer from anxiety are consistently most affected. Medication can also has side-effects that make users more susceptible to these tactics.
+Everyone experiences the effects of these tactics online, but they apply so much to those with mental health-oriented access needs. Those who struggle with a lack of motivation, are susceptible to periods of impulsivity, and those that suffer from anxiety are consistently most affected. Medication can also have side-effects that make users more susceptible to these tactics.
 
 We also don’t know accurately how many people it’s affecting. The charity Money and Mental Health estimates that “In any given year, one in four people will experience a mental health problem which can affect their cognitive and psychological functioning”. However they’ve also discovered through research that “Nearly half of adults believe that, in their lifetime, they have had a diagnosable mental health problem, yet only a third have received a diagnosis”
 
@@ -120,11 +120,11 @@ Any one of the above examples would be ok by itself, but together it’s irrespo
 ## Bait and switch
 ![The Windows 10 upgrade popup](/static/img/posts/how-dark-patterns-affect-mental-health/window-10-popup.jpg){:loading="lazy"}
 
-The above is a standard Windows upgrade message. It’s is a fairly routine call to action, but over time the frequency of the popups increased. It started appearing as a ‘recommended’ upgrade for users, and unlike the confirm shaming we just spoke about, this popup didn’t have two “Yes or No” style buttons. Instead, it had one button that recommended you start the install, and only a small default ‘X’ icon in the corner of the popup to close it. Poor form perhaps, but still nothing heinous. Despite the increased frequency and change in wording, many users still weren’t upgrading and instead dismissing the popup when it appeared.
+The above is a standard Windows upgrade message. It’s is a fairly routine call to action, but over time the frequency of the pop-ups increased. It started appearing as a ‘recommended’ upgrade for users, and unlike the confirm shaming we just spoke about, this pop-up didn’t have two “Yes or No” style buttons. Instead, it had one button that recommended you start the install, and only a small default ‘X’ icon in the corner of the popup to close it. Poor form perhaps, but still nothing heinous. Despite the increased frequency and change in wording, many users still weren’t upgrading and instead dismissing the popup when it appeared.
 
 You see where this is going, right?
 
-Then, in a particular popup, they changed the behaviour of the universally known ‘X’ icon which, on every one of the previous popups, closed the window. Instead, clicking the icon actually scheduled the upgrade process. By doing this, they deliberately cashed in on the action that these users had been performing so consistently for nearly a year: hitting the ‘X’ icon to close it. This same concept is employed by viruses, where closing actions can trigger unexpected behaviour that does opposite of what you would expect
+Then, in a particular pop-up, they changed the behaviour of the universally known ‘X’ icon which, on every one of the previous pop-ups, closed the window. Instead, clicking the icon actually scheduled the upgrade process. By doing this, they deliberately cashed in on the action that these users had been performing so consistently for nearly a year: hitting the ‘X’ icon to close it. This same concept is employed by viruses, where closing actions can trigger unexpected behaviour that does opposite of what you would expect.
 
 The backlash was massive, and because of this an immediate patch was created to revert the change. Chris Capossela, Microsoft’s Chief Marketing Officer, said:
 
@@ -142,11 +142,11 @@ This one used to be a lot more obvious than it is now. Comet were famously caugh
 
 A prime example of this is the airline Jetstar. They use misdirection when it comes to selecting seats by preselecting a random one that incurs a $5 charge. Now, you can choose another seat for the same price but, most importantly, you can skip this altogether and still receive a random seat for free. The way it’s designed makes it look like an ‘opt-in’ but it’s done by default – if you don’t change the random seat and instead hit ‘continue’ you’ll be charged for a seat you don’t need to pay for. Now, Jetstar operate roughly 208,000 flights a year (4,000 flights per week), so if *even one person* per flight ends up paying for a random seat, it’ll equate to over $1million extra revenue per year.
 
-It’s not just them though. GoDaddy add extra, charges when you add a domain to your basket such as longer domain registration and privacy protection. In this case, it could be argued that it’s preying on those who don’t know what they need when they buy a domain.
+It’s not just them though. GoDaddy add extra charges when you add a domain to your basket such as longer domain registration and privacy protection. In this case, it could be argued that it’s preying on those who don’t know what they need when they buy a domain.
 
 ### The effect on mental health
 - ❌ For people with a lack of motivation, they’re likely to simply accept the charges and keep going.
-- ❌ It also preys on the impulsivity of people with bipolar disorder
+- ❌ It also preys on the impulsivity of people with bipolar disorder.
 
 
 ## Communication anxiety
