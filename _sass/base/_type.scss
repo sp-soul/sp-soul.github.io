@@ -115,11 +115,11 @@ blockquote {
 
     cite {
         display: block;
+        padding: 0.4rem 0 0.4rem 2rem;
         margin-top: .8rem;
-        font-style: normal;
-        font-weight: 400;
-        color: #ececec;
-        text-transform: uppercase;
+        font-style: italic;
+        color: currentColor;
+        border-left: 0.4rem solid #dedede;
     }
 }
 
