@@ -1,7 +1,4 @@
 <head>
-    {% if site.tags != "" %}
-        {% include collecttags.html %}
-    {% endif %}
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-109587501-1"></script>
     <script>
@@ -53,4 +50,7 @@
     {% endif %}
     <meta name="twitter:image" content="{{ site.url }}/{% if page.socialshare %}{{ page.socialshare }}{% else %}static/img/social-share.jpg{% endif %}">
     <meta name="twitter:image:alt" content="">
+    {% if site.tags != "" %}
+        {% include collecttags.html %}
+    {% endif %}
 </head>
