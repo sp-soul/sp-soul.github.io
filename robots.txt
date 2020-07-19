@@ -1,4 +1,4 @@
-Sitemap: http://www.mrfirthy.me/sitemap.xml
+Sitemap: https://www.mrfirthy.me/sitemap.xml
 User-agent: *
 Allow: /
 Disallow: /forum/
