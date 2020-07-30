@@ -20,9 +20,11 @@ Say what you like, but in terms of creating a naming convention that will scale 
 
 This is the only time I’ll thank Nintendo for rinsing the Pokemon franchise.
 
-So when I started thinking about a framework like badges, I wanted to extend the Pokemon theme just a little bit more. After all, Pokemon trainers earn badges by defeating gym leaders of various types and difficulties. The idea for the team was slightly simpler - that badges could be earned through various deeds in a range of different areas, culminating in a thorough understanding of what it means to be a Front-end developer at Octopus Energy.
+So when I started thinking about a framework like badges, I wanted to extend the Pokemon theme just a little bit more. After all, Pokemon trainers earn badges by defeating gym leaders of various types and difficulties.
 
 ![Illustrations of the eight Kanto badges from Pokemon](/static/img/posts/using-badges-to-track-achievements-in-a-team/pokemon-badges-kanto.png){:loading="lazy"}
+
+The idea for the team was slightly simpler - that badges could be earned through various deeds in a range of different areas, culminating in a thorough understanding of what it means to be a Front-end developer at Octopus Energy.
 
 > What did you want to achieve?
 {:.question}
