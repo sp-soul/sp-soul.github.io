@@ -2,7 +2,7 @@
 layout: post
 class: blog-entry
 title: "How dark patterns on the web affect your mental health"
-excerpt: " Design is what mediates our interaction with the internet. It’s the language we read it in. It’s not too much to ask that that language is comprehensible and honest."
+excerpt: "Design is what mediates our interaction with the internet. It’s the language we read it in. It’s not too much to ask that that language is comprehensible and honest."
 date: 2020-07-22
 readingtime: ~12 minutes
 permalink: /blog/:title

@@ -52,18 +52,18 @@
     img {
 
         @media (min-width: $mobile) {
-            width: 80%;
+            max-width: 80%;
         }
 
         &.portrait {
             @media (min-width: $mobile) {
-                width: 40%;
+                max-width: 40%;
             }
         }
 
         &.thin {
             @media (min-width: $mobile) {
-                width: 20%;
+                max-width: 20%;
             }
         }
     }
