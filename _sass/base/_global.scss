@@ -83,6 +83,7 @@ ol {
         color: white;
         text-decoration: none;
         background: $link;
+        border-radius: 0.5rem;
         outline-color: lighten($link, 15%);
     }
 }
