@@ -74,28 +74,28 @@ One drawback from this is that, although you can make custom emojis, the profile
 ## What are the badges?
 I’m going to speak vaguely about the badges we’re using so they’re more generally applicable:
 
-#### 🗿 Boulder badge
+### 🗿 Boulder badge
 Submit your first PR.
 
-#### 💧 Cascade badge
+### 💧 Cascade badge
 Add a new feature to the front-end and announce it.
 
-#### ⚡️ Thunder badge
+### ⚡️ Thunder badge
 Give 3 talks to the team.
 
-#### 🌈 Rainbow badge
+### 🌈 Rainbow badge
 Work as part of a large project from start to finish.
 
-#### 💗 Soul badge
+### 💗 Soul badge
 Work alongside operations to make our systems better.
 
-#### 🟡 Marsh badge
+### 🟡 Marsh badge
 Reach 100 merged PR's.
 
-#### 🔥 Volcano badge
+### 🔥 Volcano badge
 Take ownership of, and solve, a certain number of outages.
 
-#### 🌿 Earth badge
+### 🌿 Earth badge
 Be at Octopus Energy for one year.
 
 You’ll notice that only one of these is time based, but the idea is that the original eight would be achievable within that time.
