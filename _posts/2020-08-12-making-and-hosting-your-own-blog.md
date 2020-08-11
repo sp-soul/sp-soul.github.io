@@ -3,7 +3,7 @@ layout: post
 class: blog-entry
 title: "Making and hosting your own blog for free with no coding knowledge"
 excerpt: "If you’d like to claim a little patch of land online, I’m going to talk about how to do it for no money with Jekyll and Github pages. What’s more, I’ve made a starter blog for you too."
-date: 2020-08-10
+date: 2020-08-12
 readingtime: ~13 minutes
 permalink: /blog/:title
 tags: coding
@@ -43,7 +43,7 @@ First you’ll need a Github account. If you have one already, skip this step! I
 
 ![Setting up an account on Github](/static/img/posts/making-and-hosting-your-own-blog/github-setup.png){:loading="lazy"}
 
-### Forking my repo
+### 'Forking' my repo
 Now your account is set up, just head to this link:
 
 [https://github.com/MrFirthy/basic-jekyll-blog](https://github.com/MrFirthy/basic-jekyll-blog)
@@ -82,7 +82,13 @@ Alright, the last thing you’ll probably want to do it add a page of your own! 
 
 `YYYY-MM-DD-name-of-post.md`
 
-The `.md` is to identify the file as a markdown file, so that Jekyll will know what to do with it. With your file made, you can use the following as a starting point for your blog:
+The `.md` is to identify the file as a markdown file, so that Jekyll will know what to do with it.
+
+> What's markdown?
+{:.question.mb-0}
+Good question. Markdown is a lightweight markup language - a way to write a form of code that feels a lot like regular writing. Like coding whilst not really coding. For instance if you want to **bold** something you write `**bold**`, or *to italicise something*, it's `*like this*`. Having this in your blog allows you to do funky things like add images, quotes and headings as well as the standard things like bolding and underlining text. There is a complete [markdown cheatsheet here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to help you out. Importantly, you can also just write in plain text, without doing anything fancy, and it will work fine as well!
+
+Anyway with your file made, you can use the following as a starting point for your blog:
 
 ```
 ---
@@ -101,7 +107,7 @@ Well, would you look at that: It's a post I made myself!
 
 The content between these dashes is known as “front matter”, and it basically tells Jekyll what it needs to know about the page that you’re making. As it’s a blog, it follows the layout I’ve created called `post`, and the `class` line is for styling. Some of these lines are optional, such as `readingtime` and `tags`, but the rest are worth keeping but altering for your purposes.
 
-Everything underneath the dashes if your blog content! You can write everything in plain text or markdown, and it’ll be interpreted perfectly for you online when you commit your changes. Here is a complete [markdown cheatsheet here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to help you out.
+Everything underneath the dashes is your blog content! You can write everything in plain text or markdown, and it’ll be interpreted perfectly for you online when you commit your changes. Here is a complete [markdown cheatsheet here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to help you out.
 
 
 ![The contents of a new blog post on Github](/static/img/posts/making-and-hosting-your-own-blog/github-blog-post-four.png){:loading="lazy"}
@@ -119,7 +125,7 @@ All of this is visible from the `settings` page in the repo you set up.
 - 📈 Google analytics (controlled through config)
 - 🎨 A basic theme ready to go
 - 👩‍🎨 Easy to change colours (just edit `_variables.scss` and change the hex codes)
-- 🏠 A home page, ready to be edited **could this be in markdown too?**
+- 🏠 A home page, ready to be edited
 - 🖋 A blog page that lists all blogs
 - ✍️ Three example blogs, written in markdown
 - 🧾 Every blog comes with options for a title, excerpt, publish date, tag(s), and reading time
@@ -127,8 +133,8 @@ All of this is visible from the `settings` page in the repo you set up.
 - 📖 Pagination built in (you can control how many posts per page are shown in `Config.yml`
 - 🔖 A post-tagging system built in, so users can browse by tag.
 - 🚦 A small navigation for movement between the pages
-- 🔄 It can be ran locally, where your browser will refresh every time you make a change
-- 👩‍💻 Once uploaded to GitHub, can be published with one command on the terminal
+- 🔄 It can be run locally, where your browser will refresh every time you make a change
+- 👩‍💻 Once uploaded to GitHub, it can be published with one command on the terminal
 - 📙 Full setup instructions in the `README.md` file.
 
 
@@ -150,9 +156,9 @@ The layout is nice and simple, and you can change any of the colours by simply c
 - ✅ There are even [theme options built in](https://docs.github.com/en/github/working-with-github-pages/adding-a-theme-to-your-github-pages-site-using-jekyll) so you can get something looking snazzy right out of the box without touching CSS (if you don’t like the default theme I’ve added).
 
 ### Cons
-- ❌ It can be a little limiting
+- ❌ It can be a little limiting.
 Custom tagging is a problem like that (thanks for Long Qian for finding the neatest way possible to make this happen in a [Github pages version of Jekyll](https://longqian.me/2017/02/09/github-jekyll-tag/)).
-- ❌ You build *everything* yourself
+- ❌ You build *everything* yourself.
 That’s a struggle if you don’t have too much experience coding, but to be honest once the structure of the blog was made, I haven’t needed to alter much - just ad-hoc style changes for when I add a quote or list that I hadn’t before. Hopefully you’ll find this easy to alter and besides, my code is around to steal if you get stuck.
 
 
@@ -190,19 +196,19 @@ Oh for sure...probably. The good news is that I could contribute weekly for 6 mo
 ## Running the site locally
 There are many reasons why it might be useful to run your site locally before publishing your content live on the internet, chief among them being checking and editing your blogs before you share them with others. This is very easy to do with your new site, you’ll just need to use a terminal ([you can learn about that here](https://macpaw.com/how-to/use-terminal-on-mac#:~:text=How%20to%20open%20Terminal%20on,double%2Dclick%20the%20search%20result.)). Here are the steps to run the site locally. (**Note: if you’re happy just using the Github site to make your changes, feel free to ignore this**).
 
-1. Clone your repository you’ve made
+1. Clone your repository you’ve made.
 With your terminal open, navigate to the place you want to store your site cd using the `cd` command, then run `git clone https://github.com/YOURNAME/YOURNAME.github.io.git`.
 2. Move into your project folder
 `cd YOURNAME.github,io`
 3. Install what the project needs to run locally
 `bundle install`
-4. Run you site locally
+4. Run your site locally.
 You can use the command `bundle exec jekyll serve --watch --livereload` to run the site locally. Once you’ve run this command, you’ll be able to see the site running at `https://localhost:4000`. The arguments in that command mean that it will watch your site folder for any changes you make to your site files, and will reload your browser automatically when you make a change - cool!
-5. Publish any changes
+5. Publish any changes.
 When you’ve made changes locally and want to deploy them to your live site, you’ll need to pop some commands into your terminal to do that. Typically you’ll use `git add .` to add all the files, `git commit` to mark your changes with a description, and then `git push` to push them to Github. For a full guide on using Git through the terminal, [take a look here for a simple guide](https://rogerdudler.github.io/git-guide/).
 
 ## Conclusion
-Depending on what you hope to use it for, you could free yourself from a Wix or SquareSpace subscription, or even a yearly hosting cost, by switching over to Github pages. Feel free to copy it wholesale if you’d like (but if you could leave out the blogs I’ve written, and write yourself a different home page, I’d appreciate it.
+Depending on what you hope to use it for, you could free yourself from a Wix or SquareSpace subscription, or even a yearly hosting cost, by switching over to Github pages. Feel free to copy it wholesale if you’d like (but if you could leave out the blogs I’ve written, and write yourself a different home page, I’d appreciate it).
 
 > A site set up in this way is beautifully simple, and the result is that I actually enjoy writing these days, for the first time since I finished writing my book.
 {:.answer}
