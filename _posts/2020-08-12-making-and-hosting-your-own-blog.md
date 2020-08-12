@@ -67,7 +67,7 @@ Within a minute or so, you’ll see it live at: `https://GITHUB_USERNAME.github.
 Here’s the example site from these images being displayed at [https://website-emporium.github.io](https://website-emporium.github.io/). You now have a site on the internet having written zero code and spent zero pounds - go you!
 
 ### Change a page to see it change live
-Spo have something live on the internet thanks to a couple of button clicks and a name change - now it’s time to make it your own. You’ll want to get rid of all of that dummy text, and start adding some writing of your own. What’s great is that you don’t need a code editor or even coding experience to do this, as Github lets you do it all from their website. To change any file, you just navigate to it and hit the edit button in the top right of the page (the one with the pencil icon).
+So now you have something live on the internet thanks to a couple of button clicks and a name change - now it’s time to make it your own. You’ll want to get rid of all of that dummy text, and start adding some writing of your own. What’s great is that you don’t need a code editor or even coding experience to do this, as Github lets you do it all from their website. To change any file, you just navigate to it and hit the edit button in the top right of the page (the one with the pencil icon).
 
 ![Hitting the edit button on a file in Github will allow you to edit its content from within the site](/static/img/posts/making-and-hosting-your-own-blog/github-edit-file.png){:loading="lazy"}
 
