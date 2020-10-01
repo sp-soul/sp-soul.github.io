@@ -193,6 +193,8 @@ I’ve seen this request posted on Asana’s forum a number of times, so I would
 ### Previewing progress of Subtasks at a card level
 This was actually suggested by Michal in my team, and I’d forgotten how useful it was. When you’re viewing a board in Trello, you can see from the card if there are any sub-tasks within it, and how many of those sub-tasks have been completed. It’s omission from the Asana board UI could well be the result of wanting to keep the UI cleaner than its competitors, but for me the inclusion of this would be a real positive. They could even take it a step further and highlight dependant tasks in the same way - something that isn’t immediately clear in any other view other than the timeline.
 
+**Edit - This has since been added to Asana! You can now see if a card has any sub-tasks at a board level, and you can even click it to see what those tasks are, head straight to them, and perform actions such as marking them as complete and assigning them.**
+
 ## Overall
 > It’s not just a slick design on top of everything you’ve seen and used before in other tools, it’s a chance to take a step back and evaluate how you handle work.
 {:.answer}
