@@ -35,19 +35,19 @@ I wanted to write something short to commemorate such a special milestone, but n
 ### Beta testing before we joined the market
 ![The contraption we used to encourage people to sign up for our beta program - an iPad on a motorised pole with a fluffy octopus on the screen](/static/img/posts/reflecting-on-five-years-at-octopus-energy/beta-testing.jpg){:loading="lazy"}
 
-Me and Matt Davies drove this contraption (called a Double) around the other offices on our floor to encourage people to come and join Octopus. We only had a handful of customers and had to have a few hundred on supply with us before we were allowed to fully join the market and start providing energy across the country (this is known as “controlled market entry”). This particular tactic was perhaps more frightening than encouraging, but we did get a few people signed up this way…
+Matt Davies and I drove this contraption (called a Double) around the other offices on our floor to encourage people to come and join Octopus. We only had a handful of customers and had to have a few hundred on supply with us before we were allowed to fully join the market and start providing energy across the country (this is known as “controlled market entry”). This particular tactic was perhaps more frightening than encouraging, but we did get a few people signed up this way…
 
 ### The first Octopus away day
 ![The flyer for Octopus Energy's first ever away day. It reads "23 new shareholders, 1,500 customers, an industry that never saw it coming..."](/static/img/posts/reflecting-on-five-years-at-octopus-energy/first-away-day.jpg){:loading="lazy"}
 
 I love this flyer so much. The fact that it sounded so over-the-top reading it just as we’d entered the market and how, on reflection, it was probably still an understatement even then. Less than thirty of us, 1,500 customers. Bonkers.
 
-We were based in Hammersmith at this point, before we found our more permanent London home in Soho, but an awful lot of fun was had in that first office (and those surrounding pubs). Celebrating 400 customers, entering the market, and getting our first TV out into the world all felt like incredible milestones. It felt like Hammersmith was where we forged the initial “energy” of Octopus, and you’d still feel that same energy if you entered any Octopus office which I love.
+We were based in Hammersmith at this point, before we found our more permanent London home in Soho, but an awful lot of fun was had in that first office (and those surrounding pubs). Celebrating 400 customers, entering the market, and getting our first TV advert out into the world all felt like incredible milestones. It felt like Hammersmith was where we forged the initial “energy” of Octopus, and you’d still feel that same energy if you entered any Octopus office, which I love.
 
 ### Reaching 10,000 customers
 ![A certificate I received at the Octopus Energy ten thousand custmomer party. It reads "Awarded to Ashley Firth for reaching ten thousand customers and actually creating the world's best user experience, even on an iPhone 4"](/static/img/posts/reflecting-on-five-years-at-octopus-energy/ten-thousand-customer-cerificate.jpg){:loading="lazy"}
 
-This is a certificate I received at our 10,000 customer party (crazy to think that was only just over 4 years ago). Everybody got one, and I’m most thankful for the fact that we don’t need to work as much on the iPhone 4 these days…
+This is a certificate I received at our 10,000 customer party (crazy to think that was only just over four years ago). Everybody got one, and I’m most thankful for the fact that we don’t need to work as much on the iPhone 4 these days…
 
 ![Greg giving a speech atop the Mayor of Hammersmith's desk](/static/img/posts/reflecting-on-five-years-at-octopus-energy/greg-on-a-desk.jpg){:class="portrait" :loading="lazy"}
 
@@ -68,7 +68,7 @@ Of course it’s easy to achieve when you’re quite small and everyone is close
 
 It’s the biggest thing I wanted to foster when I eventually started growing a team of my own, and I’m proud to say it’s been a success so far - we’ve only ever had one leaver in Front-end and that was early on in their time with us because they missed working at an agency. There was technically one more, but they left for a couple of months, wanted to come right back, and hasn’t left since so I’m not counting it 😉.
 
-It can’t be understated. It really can’t. I know there are roughly one billion articles online spouting about how important having the right people in your team/company/cult, but it really is the first, second, and third most important thing. It’s the reason I stayed so long at my last job, the reason why I’ve been here longer than anywhere else in my career, and the reason I decided to join in the first place. Aside from Greg’s insanely compelling pitch about what Octopus could be, the fact that they had smart people aboard that I looked up to sealed it.
+It can’t be understated. It really can’t. I know there are roughly one billion articles online spouting about how important having the right people in your team/company/cult is, but it really is the first, second, and third most important thing. It’s the reason I stayed so long at my last job, the reason why I’ve been here longer than anywhere else in my career, and the reason I decided to join in the first place. Aside from Greg’s insanely compelling pitch about what Octopus could be, the fact that they had smart people aboard that I looked up to sealed it.
 
 
 ## The 8 promises of Octopus
@@ -78,12 +78,12 @@ One of the first things that I remember Pete creating in 2015 was the “manifes
 
 What I love so much about these is that they’re just as accurate today - a good chunk of them are covered in the mission statement we often share:
 
-> We use technology to bring lower and more transparent pricing, better service and more sustainable energy to customers
+> We use technology to bring lower and more transparent pricing, better service and more sustainable energy to customers.
 
 They also weren’t promises that started small and then needed to scale up accordingly - we were genuinely always thinking on a global scale, because the problems we’re aiming to tackle are on the same scale. And there had to eight of them, naturally.
 
 ## The price cap
-Number 5 on the list of promises was “We hate bait & switch”. This is the practice of suppliers enticing customers in with a cheap deal (often through price comparison sites), and then rolling customers on to their standard tariff when their deal ended - usually costing those customers hundreds more a year.
+Number 5 on the list of promises was “We hate bait & switch”. This is the practice of suppliers enticing customers in with a cheap deal (often through price comparison sites), and then rolling them on to their standard tariff when their deal ends - usually costing them hundreds of pounds more a year.
 
 It’s never how we wanted to act as a business. We often use the tagline of “good value for the long-term and not the fixed term”, and it’s a mentality that we think everyone who sells energy should have - we may not always be the very cheapest, but we’re transparent and, most importantly, consistent.
 
@@ -91,7 +91,7 @@ Unfortunately it’s not something I can say about every supplier. This graph wa
 
 ![A graph from 2016 showing the difference between every energy supplier's cheapest and variable tariffs. It highlighted that a lot of suppliers were offering attractive deals to customers, but then rolling them on to far more expensive tariffs when their deal ended.](/static/img/posts/reflecting-on-five-years-at-octopus-energy/tease-and-squeeze-graph.jpg){:loading="lazy"}
 
-We wanted to curb this behaviour across the board, and make energy more affordable for everyone. The first step was highlighting that it was happening. Michael Robinson of BBC’s ‘Money Box’ featured it on his show, and “bait and switch” became known as “tease and squeeze”.
+We wanted to curb this behaviour across the board, and make energy more affordable for everyone. The first step was highlighting that it was happening. Michael Robinson of BBC’s ‘Money Box’ featured it on his show, and “bait and switch” became known as “[tease and squeeze](https://www.google.com/amp/s/www.bbc.co.uk/news/amp/business-37318534)”.
 
 ![The BBC news website reporting on the 'tease and squeeze' tactics on many suppliers in the energy industry, using data we provided](/static/img/posts/reflecting-on-five-years-at-octopus-energy/tease-and-squeeze-bbc.jpg){:loading="lazy"}
 
@@ -106,9 +106,9 @@ What adds to my love of this is that the price cap didn’t actually directly im
 ## Tracker & Agile
 ![An iPhone displaying a message about a 'plunge pricing' event on Agile Octopus - where demand is so low, and supply is so high, that users are paid to use electricity](/static/img/posts/reflecting-on-five-years-at-octopus-energy/agile-octopus.jpg){:loading="lazy"}
 
-As much as I hated life in a digital agency, it’s fair to say it teaches you a fair bit about tight deadlines. This is particularly useful because, unfortunately, no company is immune from them - every now and then they pop up, even when we set our own deadlines.
+As much as I hated life in a digital agency, it’s fair to say it teaches you a fair bit about tight deadlines. This is particularly useful because, unfortunately, no company is immune to them - every now and then they pop up, even when we set our own deadlines.
 
-Octopus Tracker & Agile Octopus are the names of our smart time-of-use tariffs. They’re able to change price daily and half-hourly respectively - both were a first for the energy industry when they were released. Tracker aims to be the most transparent tariff ever: changing price daily and showing you the exact breakdown of what you’re paying (what pays for distribution, generation, and even our margin on it). Agile’s aim was more behavioural: by offering different prices every half hour depending on the demand and supply levels of renewable energy, customers could get used to putting the washing on an hour later to save money, or set their devices to charge at times that are ‘greenest’ or ‘cheapest’.
+Octopus Tracker & Agile Octopus are the names of our smart time-of-use tariffs. They’re able to change price daily and half-hourly respectively - both were a first for the energy industry when they were released. Tracker aims to be the most transparent tariff ever: changing price daily and showing you the exact breakdown of what and *why* you’re paying (what pays for distribution, generation, and even our margin on it). Agile’s aim was more behavioural: by offering different prices every half hour depending on the demand and supply levels of renewable energy, customers could get used to putting the washing on an hour later to save money, or set their devices to charge at times that are ‘greenest’ or ‘cheapest’.
 
 I love them for a few reasons:
 - 👨‍💻 I helped build them with some very smart people
@@ -119,7 +119,7 @@ We’ve always been a flexible company in the way we work: the where and when of
 
 However sometimes, for the sake of the business, exceptions need to be made. Planning has to give way to action and this was the case for both of these. When it happens, our plan is simple - get the right people in a room, and we’ve got a good chance. The default response isn’t “that’s too soon”. Such is the way that we work that, in fact, it’s actually exciting when opportunities like these come up: when it’s not the default, you’re happy to do it when it’s vital.
 
-We now have tens of thousands of people on these smart tariffs, and they’re products that wouldn’t have existed without us being able to switch into that way of working when it’s been necessary. Because of all of the above, they’re amongst my favourite things to have built at Octopus. I genuinely think that when smart meters are more widely rolled out, that these will become the default tariffs to be on as well - taking advantage of smarter homes and people helping to balance the grid rather than other drastic measures.
+We now have tens of thousands of people on these smart tariffs, and they’re products that wouldn’t have existed without us being able to switch into that way of working when it’s been necessary. Because of all of the above, they’re amongst my favourite things to have built at Octopus. I genuinely think that when smart meters are more widely rolled out, these will become the default tariffs to be on as well - taking advantage of smarter homes and people helping to balance the grid rather than other drastic measures.
 
 ![Someone using the Octopus Tracker app on their iPhone](/static/img/posts/reflecting-on-five-years-at-octopus-energy/octopus-tracker.jpg){:loading="lazy"}
 
@@ -136,13 +136,13 @@ If you speak to most people that work here, they’d probably agree that you end
 
 This is what happened with accessibility when I first started at Octopus. It went something like this:
 
-- 😬 I told Greg I needed a couple of weeks before we even had a quote journey live to work on baking in accessibility from the start. He was concerned (understandably) but ultimately trust me to run with it
-- ✍️ I started blogging about it, and then started writing for tech magazines about it to spread awareness
-- 🎙 I started to give talks about customer experience and Octopus, and that gave me a platform to talk about the importance of accessibility in the customer experience
-- 🤔 Those talks led me to speak at the festival of marketing, and that was the point that I realised I wanted to right a book that brought this topic to people who weren’t developers in a format they could actually engage with
-- 🙏 When I said I wanted to write a book, Greg and Rebecca worked with me to find a solution that worked best. The result was [Jackson Howarth](https://www.youtube.com/watch?v=Q6pbZLiLt30) who joined as a Research Assistant (and in true Octopus style never left but became one of our writers!)
+- 😬 I told Greg I needed a couple of weeks before we even had a quote journey live to work on baking in accessibility from the start. He was concerned (understandably) but ultimately trusted me to run with it
+- ✍️ I started blogging about it, and then started writing for tech magazines to spread awareness
+- 🎙 I started to give talks about customer experience at Octopus, and that gave me a platform to talk about the importance of accessibility
+- 🤔 Those talks led me to speak at the Festival of Marketing, and that was the point that I realised I wanted to write a book that brought this topic to people who weren’t developers in a format they could actually engage with
+- 🙏 When I said I wanted to write a book, Greg and [Rebecca](https://twitter.com/dibb_simkin) (our Director of Marketing) worked with me to find a solution that worked best. The result was [Jackson Howarth](https://www.youtube.com/watch?v=Q6pbZLiLt30) who joined as a Research Assistant (and in true Octopus style never left and became one of our writers!)
 - 🔥 For the year that followed, I juggled working at Octopus during the day and writing a book in my evenings and weekends. I’m not glorifying that but it is what happened. I’m *very* lucky to have an understanding partner
-- 🗣 We now use the book as a talking point and platform when people visit Octopus to raise awareness about inclusion and web accessibility
+- 🗣 We now use the book as a talking point and platform for discussion when we talk at events or people visit us at the office, in order to raise awareness about inclusion and web accessibility
 - 🥰 Greg even gave a load of copies away in a giveaway on Twitter!
 
 Writing a book had always been a dream of mine, and I did it last year because, four years beforehand, I read about accessibility, knew it mattered to me (and would matter to the company) and ran with it. That’s it. That’s the secret. That’s how I went from this:
