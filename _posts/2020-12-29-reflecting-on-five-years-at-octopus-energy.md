@@ -3,7 +3,7 @@ layout: post
 class: blog-entry
 title: "Reflecting on 5 years at Octopus Energy"
 excerpt: "Half a decade. Blimey. Here are a few of my favourite moments so far, and a few bits of history."
-date: 2020-12-28
+date: 2020-12-29
 readingtime: ~14 minutes
 permalink: /blog/:title
 tags: octopus
