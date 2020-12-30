@@ -6,7 +6,7 @@ excerpt: "One of the big motivations was making sure that all of the great energ
 date: 2020-07-31
 readingtime: ~9 minutes
 permalink: /blog/:title
-tags: management productivity
+tags: management productivity popular
 ---
 
 The other week [Gilly](https://twitter.com/SoEclecticGames) in my team threw an idea into my head. It was fleeting but really got my attention. She had mentioned that her and her partner [Rob](https://twitter.com/robpercival87), an ex-Google engineer who is now with us at Octopus Energy, had been reminiscing on a “badge” system they used there to reward effort and pursuits in a range of different areas. She mentioned that it had really stuck with those working there, and people were soon working hard in areas they hadn’t before in order to achieve them. Of course Google is a massive company, but I was interested in whether the same concept could apply, somewhat tweaked, to smaller teams.

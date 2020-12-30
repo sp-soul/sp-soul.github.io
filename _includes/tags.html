@@ -10,12 +10,20 @@
         {% for temptag in sortedtemptags %}
             {% assign tagitems = temptag | split: '#' %}
             {% capture tagname %}{{ tagitems[1] }}{% endcapture %}
-            <a
-                href="{{ site.url }}/blog/{{ tagname }}"
-                class="tag"
-            >
-                {{ tagname }}
-            </a>
+            {% if tagname != 'popular' %}
+                <a
+                    href="{{ site.url }}/blog/{{ tagname }}"
+                    class="tag"
+                >
+                    {{ tagname }}
+                </a>
+            {% endif %}
         {% endfor %}
+        <a
+            href="{{ site.url }}/blog/popular"
+            class="tag tag--popular"
+        >
+            popular
+        </a>
     </div>
 {% endif %}

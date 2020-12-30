@@ -216,6 +216,17 @@ blockquote {
         text-decoration: none;
         background-color: darken($link, 5%);
     }
+
+    &--popular {
+        color: black;
+        background-color: #d7be69;
+
+        &:hover,
+        &:focus {
+            color: black;
+            background-color: #d7be69;
+        }
+    }
 }
 
 .night {

@@ -2,7 +2,13 @@
 layout: page
 ---
 
-<h2 class="h1">Posts about {{ page.tag| capitalize }}</h2>
+<h2 class="h1">
+    {% if page.tag == 'popular' %}
+        {{ page.tag| capitalize }} posts
+    {% else %}
+        Posts about {{ page.tag| capitalize }}
+    {% endif %}
+</h2>
 
 <div class="posts">
     {% for post in site.tags[page.tag] %}

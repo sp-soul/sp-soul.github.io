@@ -6,7 +6,7 @@ excerpt: "Design is what mediates our interaction with the internet. It’s the 
 date: 2020-07-22
 readingtime: ~12 minutes
 permalink: /blog/:title
-tags: accessibility
+tags: accessibility popular
 ---
 
 

@@ -6,7 +6,7 @@ excerpt: "Changing volume or brightness by smaller amounts, re-opening the tab y
 date: 2020-07-08
 readingtime: ~8 minutes
 permalink: /blog/:title
-tags: productivity coding
+tags: productivity coding popular
 ---
 
 I’ve had a bit of wrist pain recently. It could well be because lockdown has me spending more hours than ever at a computer (who knew commuting was good for something), or that my remote setup is *just*  different enough that pressure is being put on the wrong places. Either way, I’ve been trying to use the keyboard more and the mouse less in order to reduce the “micro-movements” that using a mouse or trackpad require.

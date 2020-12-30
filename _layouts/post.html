@@ -20,7 +20,7 @@ layout: default
                         {% capture tag_name %}{{ tag }}{% endcapture %}
                         <a
                             href="{{ site.url }}/blog/{{ tag_name }}"
-                            class="tag"
+                            class="tag tag--{{ tag_name }}"
                         >
                             {{ tag_name }}
                         </a>
