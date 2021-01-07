@@ -205,26 +205,23 @@ blockquote {
     margin-bottom: 0.5rem;
     font-size: 1.6rem;
     line-height: 2.4rem;
-    color: white;
     background-color: $link;
     border-radius: 0.2rem;
     transition: all .2s ease-in;
+    @include link-style(white, none);
 
     &:hover,
     &:focus {
-        color: white;
-        text-decoration: none;
         background-color: darken($link, 5%);
     }
 
     &--popular {
-        color: black;
-        background-color: #d7be69;
+        @include link-style(black, none);
+        background-color: $popular;
 
         &:hover,
         &:focus {
-            color: black;
-            background-color: #d7be69;
+            background-color: darken($popular, 5%);
         }
     }
 }
@@ -245,6 +242,15 @@ blockquote {
         &:hover,
         &:focus {
             background-color: darken($link-reverse, 5%);
+        }
+
+        &--popular {
+            background-color: $popular;
+
+            &:hover,
+            &:focus {
+                background-color: darken($popular, 5%);
+            }
         }
     }
 }

@@ -58,16 +58,6 @@ nav {
     }
 }
 
-.night {
-    .home-link {
-        @include link-style($link-reverse);
-    }
-
-    .back-link {
-        @include link-style($text-reverse);
-    }
-}
-
 .section { margin-bottom: 6.4rem; }
 
 .role { margin-bottom: 4.8rem; }
@@ -84,4 +74,19 @@ nav {
     }
 
     &:hover { border-color: $link-hover; }
+}
+
+.night {
+    .home-link {
+        @include link-style($link-reverse);
+    }
+
+    .back-link {
+        @include link-style($text-reverse);
+    }
+
+    .project,
+    .post {
+        &:hover { border-color: $link-reverse-hover; }
+    }
 }
