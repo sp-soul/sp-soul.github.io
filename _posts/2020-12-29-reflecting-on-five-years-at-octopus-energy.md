@@ -6,7 +6,7 @@ excerpt: "Half a decade. Blimey. Here are a few of my favourite moments so far, 
 date: 2020-12-29
 readingtime: ~14 minutes
 permalink: /blog/:title
-tags: octopus popular
+tags: octopus personal popular
 ---
 
 In late 2015, I had just been made Head of Front-end development at Tangent Snowball - a top 40 agency in central London. They were a good size, had some great clients, and it was a really big deal to me. I can’t say that it came at the best time in the company’s life if I’m being honest - a few people that I had worked with ever since I’d been there had recently left. Despite that though, it still felt like a great opportunity for that point in my career.
