@@ -55,6 +55,10 @@
             max-width: 80%;
         }
 
+        &.full {
+            max-width: 100%;
+        }
+
         &.portrait {
             @media (min-width: $mobile) {
                 max-width: 40%;
