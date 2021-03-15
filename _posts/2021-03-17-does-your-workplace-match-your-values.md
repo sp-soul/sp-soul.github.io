@@ -3,7 +3,7 @@ layout: post
 class: blog-entry
 title: "Does your workplace match your values?"
 excerpt: "Exploring a question I never asked myself at the start of my career, and how I found the answer over the years."
-date: 2021-02-17
+date: 2021-03-17
 readingtime: ~11 minutes
 permalink: /blog/:title
 tags: personal
