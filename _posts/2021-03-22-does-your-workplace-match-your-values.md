@@ -3,7 +3,7 @@ layout: post
 class: blog-entry
 title: "Does your workplace match your values?"
 excerpt: "Exploring a question I never asked myself at the start of my career, and how I found the answer over the years."
-date: 2021-03-17
+date: 2021-03-22
 readingtime: ~11 minutes
 permalink: /blog/:title
 tags: personal
@@ -49,7 +49,7 @@ Here are some questions to ask yourself, based on my experience. Because at each
 ### Fishrod Interactive
 > Are you still learning?
 {:.question.mb-0}
-Fishrod Interactive was my first job out of university. It was a tiny start-up, founded by Gavin Williams who had completed the same degree as me a couple of years previously, and it was unbelievably fun. It had real “us against the world” energy because of its size, and yet the clients we worked with had serious name recognition: Sky, Budweiser, and Metro. My favourite by a mile though was WWE. I’d been a fan since I was a kid, and as part of this job we got to tour with them around the world. My first day at Fishrod was in Berlin Germany, four days after I’d handed in my last assignment at university, to help with an installation the company had made for a youth festival. Gavin actually missed his flight that day, so me and a videographer he hired to record the event had to find our way there and make sense of the various boxes of kit that had made its way there ahead of us. It still ranks as one of the most stressful and awesome days in my professional career.
+Fishrod Interactive was my first job out of university. It was a tiny start-up, founded by Gavin Williams who had completed the same degree as me a couple of years previously, and it was unbelievably fun. It had real “us against the world” energy because of its size, and yet the clients we worked with had serious name recognition: Sky, Budweiser, and Metro. My favourite by a mile though was WWE. I’d been a fan since I was a kid, and as part of this job we got to tour with them around the world. My first day at Fishrod was in Berlin Germany, four days after I’d handed in my last assignment at university, to help with an installation the company had made for a youth festival. Gavin actually missed his flight that day, so myself and a videographer he hired to record the event had to find our way there and make sense of the various boxes of kit that had made its way there ahead of us. It still ranks as one of the most stressful and awesome days in my professional career.
 
 What followed was months of moving around, seeing new sights, maintaining equipment, and hoping things didn’t break that we couldn’t replace locally. One thing it didn’t have much of though, was front-end development.
 
@@ -66,7 +66,7 @@ This is a trickier question, and honestly one I didn’t really ask myself until
 
 In all of my time there, I was never asked whether I felt comfortable working on a project. Admittedly there weren’t many that would spring to mind as being outlandishly controversial or divisive, but it certainly wasn’t asked. One client I worked on, for example, was The Labour Party. I’m very Labour-leaning, and so this wasn’t an issue for me at all, but I wasn’t asked. If I were Conservative I may have felt different.
 
-This is an important point. Unless you’re a decision maker in an agency, you very rarely have control over the clients that the business works for. I may be over-simplifying this, but the attitude always felt like “do they pay? then great!”. This is of course not true of all agencies, but it can often feel like it lacks a conscience in a way. To return briefly to what Sukanya reflecting on during the talk, she said that:
+This is an important point. Unless you’re a decision maker in an agency, you very rarely have control over the clients that the business works for. I may be over-simplifying this, but the attitude always felt like “do they pay? then great!”. This is of course not true of all agencies, but it can often feel like it lacks a conscience in a way. To return briefly to what Sukanya reflected on during the talk, she said that:
 > Traditional community led businesses in the olden world used to serve the needs of the society. Now businesses have become decoupled from the needs of the society and have become a profit generating entity only for their own shareholder maximisation of wealth.
 
 I think near the end of my time at Tangent I was beginning to realise that this was what I was missing. I’d learnt how to do my job, found great people to work alongside that inspired me, but hadn’t ever asked myself if the work I was doing (and who I was doing it for) matched what I cared about.
