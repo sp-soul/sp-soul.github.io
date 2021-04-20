@@ -6,7 +6,7 @@ excerpt: "You don’t need to re-shoot your videos, or pay someone to overlay su
 date: 2021-04-07
 readingtime: ~7 minutes
 permalink: /blog/:title
-tags: accessibility
+tags: accessibility coding
 ---
 
 Hearing loss is extremely common. According to the World Health Organisation, more than 5% of the world’s population – 466 million people – are deaf or hearing impaired, with 11 million of those people residing in the UK<sup>[1](https://www.gov.uk/government/publications/understanding-disabilities-and-impairments-user-profiles/saleem-profoundly-deaf-user)</sup>. It’s thought that by 2050 over 900 million people around the world (1 in 10) will have a hearing impairment<sup>[2](http://www.web-accessibility.org.uk/web-accessibility-for-the-deaf-and-hard-of-hearing.html)</sup>. With deafness and hard of hearing set to become more prominent, we need to ensure that more attention is given to the barriers that these users could face.
