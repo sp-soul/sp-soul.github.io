@@ -3,7 +3,7 @@ layout: post
 class: blog-entry
 title: "Adapting your sites based on user settings"
 excerpt: "Have you seen sites releasing their own dark mode, or slowing their animations, for those who prefer it? Learn how to do that!"
-date: 2021-04-28
+date: 2021-05-05
 readingtime: ~8 minutes
 permalink: /blog/:title
 tags: accessibility coding
