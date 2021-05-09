@@ -1,0 +1,112 @@
+/* -----------------------------------------------------------------------------
+ * Get advice page
+ * -------------------------------------------------------------------------- */
+
+.button {
+    font-size: 2rem;
+    font-weight: 400;
+    letter-spacing: 0;
+    color: white;
+    background-color: $link;
+    border: .1rem solid $link;
+    border-radius: .3rem;
+    padding: 1.5rem 2rem;
+
+    &:hover,
+    &:focus {
+        color: white;
+        text-decoration: none;
+        background-color: lighten($link, 5%);
+    }
+}
+
+.banner {
+    padding: 5rem 0;
+    margin-bottom: 4rem;
+    text-align: center;
+
+    @media (min-width: $phone) {
+        padding: 12rem 6rem 6rem;
+    }
+
+    @media (min-width: $mobile) {
+        width: 80%;
+        padding: 20rem 0 4rem;
+        margin: 0 auto 4rem;
+    }
+
+    @media (min-width: $container) {
+        width: 60%;
+        padding: 16rem 0 4rem;
+    }
+
+    @media (min-width: 1100px) {
+        padding: 12rem 0;
+    }
+
+    h1 {
+        margin-bottom: 3.2rem;
+    }
+
+    p {
+        margin-bottom: 6rem;
+    }
+}
+
+.accordion {
+
+    &__item {
+
+        @media (min-width: $container) {
+            width: 80%;
+        }
+    }
+
+    &__title {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        color: $text;
+
+        &:hover,
+        &:focus {
+            text-decoration: none;
+        }
+
+        h3 {
+            z-index: -1;
+            padding-right: 1.5rem;
+        }
+    }
+
+    &__icon {
+        display: flex;
+        align-items: center;
+        flex: 0 0 4.5rem;
+        width: 4.5rem;
+        z-index: -1;
+        transition: .3s ease-in-out;
+
+        &--active {
+            transform: rotate(-180deg);
+        }
+    }
+
+    &__content {
+        display: none;
+
+        &--active {
+            display: block;
+        }
+    }
+}
+
+.night {
+    .accordion {
+        &__icon {
+            svg path {
+                fill: $link-reverse;
+            }
+        }
+    }
+}
