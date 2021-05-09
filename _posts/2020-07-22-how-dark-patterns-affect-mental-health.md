@@ -169,3 +169,5 @@ These are just a few examples of dark patterns and how they can affect those wit
 {:.answer}
 
 The book is called “[Practical Web Inclusion & Accessibility](https://inclusive.guide/buy)". It’s written in a style like this and has a range of practical examples to help you along the way. If you’d like to learn more about it, or grab a copy, you can do so at [https://inclusive.guide](https://inclusive.guide).
+
+I've also recently started consulting with companies again in order to help them improve their approach to accessibility. If that sounds interesting to you, you can [learn more here](/get-advice).

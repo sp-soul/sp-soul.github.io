@@ -110,3 +110,5 @@ One of my personal favourite uses of artificial intelligence is Microsoft’s Se
 As you can see, there is a wealth of progress being made in the emerging technology and artificial intelligence sectors. Some of the world’s largest companies are simultaneously investing heavy amounts of time and resources to develop solutions that help many people, including those with disabilities and access needs. The resulting developments make for an exciting time in accessibility – with the potential to radically alter (and improve) how those with a wide array of access needs interact with technology, and indeed the wider world around them.
 
 If you’d like to learn more about accessibility in a format just like this, then I’ve written a book about it! It’s called “Practical Web Inclusion & Accessibility”, and you can [learn more about it here](https://inclusive.guide).
+
+I've also recently started consulting with companies again in order to help them improve their approach to accessibility. If that sounds interesting to you, you can [learn more here](/get-advice).

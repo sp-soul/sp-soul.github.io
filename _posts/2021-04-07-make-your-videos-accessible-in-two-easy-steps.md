@@ -148,3 +148,5 @@ You will also be able to download a sample WebVTT file you can use as a starter 
 
 ## Want to learn more?
 There is an awful lot more about this area that hasn’t been covered in this blog post. There’s also a whole host of other access needs and opportunities to make your sites more inclusive. If you’d like to learn more, I’ve written a book about it! It’s called "Practical Web Inclusion & Accessibility". You can [read more about it here](https://learna11y.com) and [grab yourself a copy here](https://learna11y.com/buy). If you do the latter, let me know on [Twitter](https://twitter.com/MrFirthy) so I can thank you myself!
+
+I've also recently started consulting with companies again in order to help them improve their approach to accessibility. If that sounds interesting to you, you can [learn more here](/get-advice).
