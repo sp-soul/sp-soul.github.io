@@ -76,6 +76,17 @@ nav {
     &:hover { border-color: $link-hover; }
 }
 
+.info {
+    padding: 1.5rem;
+    background-color: darken($background, 3%);
+    border: .1rem solid $text;
+    border-radius: .5rem;
+
+    p {
+        margin-bottom: 0;
+    }
+}
+
 .night {
     .home-link {
         @include link-style($link-reverse);
@@ -88,5 +99,10 @@ nav {
     .project,
     .post {
         &:hover { border-color: $link-reverse-hover; }
+    }
+
+    .info {
+        background-color: darken($background-reverse, 3%);
+        border-color: $link-reverse;
     }
 }
