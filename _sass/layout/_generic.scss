@@ -76,14 +76,28 @@ nav {
     &:hover { border-color: $link-hover; }
 }
 
-.info {
+.info,
+.panel {
     padding: 1.5rem;
     background-color: darken($background, 3%);
-    border: .1rem solid $text;
     border-radius: .5rem;
+}
+
+.info {
+    border: .1rem solid $text;
 
     p {
         margin-bottom: 0;
+    }
+}
+
+.panel {
+    @media (min-width: $mobile) {
+        margin: 5rem 0;
+    }
+
+    p {
+        text-align: center;
     }
 }
 
@@ -101,7 +115,8 @@ nav {
         &:hover { border-color: $link-reverse-hover; }
     }
 
-    .info {
+    .info,
+    .panel {
         background-color: darken($background-reverse, 3%);
         border-color: $link-reverse;
     }

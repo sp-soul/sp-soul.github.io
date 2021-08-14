@@ -31,3 +31,22 @@
         margin-bottom: 0.5rem;
     }
 }
+
+.half {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+
+    @media (min-width: $mobile) {
+        flex-direction: row;
+    }
+
+    &__item {
+        width: 100%;
+
+        @media (min-width: $mobile) {
+            width: 46%;
+        }
+    }
+}

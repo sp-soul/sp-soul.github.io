@@ -105,12 +105,70 @@
     }
 }
 
+.logos {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column-reverse;
+    flex-wrap: wrap;
+
+    @media (min-width: $phone) {
+        justify-content: space-evenly;
+        flex-direction: row;
+        flex-wrap: nowrap;
+    }
+
+    svg {
+        width: 50%;
+        margin: 0 2rem;
+
+        @media (min-width: $phone) {
+            width: 20%;
+        }
+
+        path {
+            fill: $text;
+        }
+
+        &:nth-child(1) {
+            width: 35%;
+            margin-top: 1rem;
+        }
+
+        &:nth-child(2) {
+            width: 30%;
+        }
+
+        @media (min-width: $phone) {
+            &:nth-child(1) {
+                width: 13%;
+                margin-top: 0;
+            }
+
+            &:nth-child(2) {
+                width: 10%;
+                margin-right: 0;
+            }
+
+            &:nth-child(3) {
+                width: 16%;
+            }
+        }
+    }
+}
+
 .night {
     .accordion {
         &__icon {
             svg path {
                 fill: $link-reverse;
             }
+        }
+    }
+
+    .logos {
+        svg path {
+            fill: $text-reverse;
         }
     }
 }
