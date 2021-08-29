@@ -126,7 +126,8 @@
             width: 20%;
         }
 
-        path {
+        path,
+        polygon {
             fill: $text;
         }
 
@@ -167,8 +168,11 @@
     }
 
     .logos {
-        svg path {
-            fill: $text-reverse;
+        svg {
+            path,
+            polygon {
+                fill: $text-reverse;
+            }
         }
     }
 }
