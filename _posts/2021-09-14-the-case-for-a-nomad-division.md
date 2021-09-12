@@ -3,7 +3,7 @@ layout: post
 class: blog-entry
 title: "The case for a 'Nomad Division' in a company"
 excerpt: "What if there was also a tangible benefit to this coming together of extraordinary circumstances? What if it could be just as liberating for companies as those that work in them?"
-date: 2021-09-09
+date: 2021-09-14
 readingtime: ~9 minutes
 permalink: /blog/:title
 tags: management productivity
