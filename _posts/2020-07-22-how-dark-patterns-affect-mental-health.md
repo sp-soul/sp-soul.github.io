@@ -162,7 +162,12 @@ Many users have a feeling (quite rightly so) that the phone process may not be e
 - ❌ For some, being forced to use an unsuitable communication channel can trigger panic attacks or suicidality ([source](https://www.moneyandmentalhealth.org/wp-content/uploads/2017/12/Levelling-the-playing-field-Regulators-report.pdf)).
 
 
-## Gotta finish with a plug
+## Handy reminders
+Half of the battle with some of the patterns we've covered is that they're so prevelant in the sites we visit every day. With some of them being so widely adopted, we can become guilty of treating them as the norm and overlooking the damage they could be doing to users. To combat this, having a constant reminder of potential pitfalls and questions to ask yourself when designing or developing a site is key.
+
+Toptal have created a great infographic to help people do just that. You can find it, and more useful info about dark patterns, via [this link](https://www.toptal.com/designers/ux/dark-patterns).
+
+## Got to finish with a plug
 These are just a few examples of dark patterns and how they can affect those with mental health issues online. If you spot anything like that on your own sites, then I'd recommend reconsidering your online practices and why they're there. If you find examples on other sites, I'd recommend sharing them so that others can become wise to them. The dark patterns site has a [hall of shame](https://darkpatterns.org/hall-of-shame.html) that they keep up to date with tweets from people finding dark patterns around the web.
 
 > This is a light paddle into what is a pretty deep pond, and there are many ponds like it when it comes to web accessibility. This metaphor is a little broken, but my point is that I wrote a book about this, and web accessibility in general.
