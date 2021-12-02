@@ -97,3 +97,5 @@ There’s almost certainly aspects of this that I’ve overlooked or outright no
 It’d be interesting to ask yourself over the next few months: are people staying because they’re happy and want to be back in an office? Or are they staying until they can find a sensible, sustainable way to leave? Perhaps they won’t even wait for that alternative before taking the plunge and freeing themselves up to see where life takes them.
 
 I can’t shake the sense that some people would enjoy seeing the world with their colleagues, and perhaps give them the confidence to do something as a group that they might dream of, but never do, by themselves. If a company could offer a way to do that, what a company it’d be...
+
+**Edit** - As mentioned by [Rob](https://twitter.com/robpercival87), I've overstated how many big tech companies are remote-first right now. A number of the big tech companies I've listed are office-first, allowing only a limited number of days working remotely. I'll keep an eye on this to see if the trend changes, but this doesn't change the point I'm making.
