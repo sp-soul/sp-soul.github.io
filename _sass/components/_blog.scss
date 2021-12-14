@@ -230,6 +230,59 @@ blockquote {
     }
 }
 
+.progress {
+    position: fixed;
+    top: auto;
+    right: 0;
+    bottom: 0.5rem;
+    left: auto;
+    height: 4rem;
+    width: 4rem;
+    padding-top: 0.5rem;
+    background: $background;
+    transition: background .5s ease-in-out;
+
+    @media (min-width: $mobile) {
+        top: 0;
+        right: auto;
+        bottom: auto;
+        left: 0;
+    }
+
+    &__circle {
+        path {
+            fill: none;
+            stroke: $link;
+            stroke-width: 4;
+        }
+
+        &.complete {
+            path {
+                fill: $link;
+            }
+
+            + svg {
+                opacity: 1;
+            }
+        }
+    }
+
+    &__complete {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        width: 2rem;
+        height: 2rem;
+        margin-top: -0.7rem;
+        margin-left: -1.2rem;
+        opacity: 0;
+
+        path {
+            stroke: $background;
+        }
+    }
+}
+
 .night {
 
     blockquote {
@@ -255,6 +308,26 @@ blockquote {
             &:focus {
                 background-color: darken($popular, 5%);
             }
+        }
+    }
+
+    .progress {
+        background: $background-reverse;
+
+        .progress__circle {
+            path {
+                stroke: $link-reverse;
+            }
+
+            &.complete {
+                path {
+                    fill: $link-reverse;
+                }
+            }
+        }
+
+        .progress__complete path {
+            stroke: $background-reverse;
         }
     }
 }
