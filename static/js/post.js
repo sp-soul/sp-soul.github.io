@@ -15,13 +15,7 @@ document.addEventListener("DOMContentLoaded", () => {
             height = document.body.clientHeight - window.innerHeight,
             progress = pathLength - (scroll * pathLength / height);
         progressPath.style.strokeDashoffset = progress;
-        console.log(progress);
-        if(progress == 0) {
-            console.log('done');
-            progressElem.classList.add('complete');
-        } else {
-            progressElem.classList.remove('complete');
-        }
+        progress == 0 ? progressElem.classList.add('complete') : progressElem.classList.remove('complete');
     }
 
     updateProgress();
