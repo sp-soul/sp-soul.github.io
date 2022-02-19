@@ -58,4 +58,4 @@ Jekyll has SASS compilation built-in, and styles are stored in the `_sass` direc
 ## Assets
 I've stored them in the `static` directory, but it could be called anything. There isn't a task runner so I'd recommend minifying and o
 ## Can I use this site?
-Absolutely! Feel free to fork the repo and use the site as a basis for your own portfolio and blog. All I asked is that you remove my blog posts, page content, and styling 👍
+Absolutely! Feel free to fork the repo and use the site as a basis for your own portfolio and blog. All I ask is that you remove my blog posts, page content, and styling 👍
