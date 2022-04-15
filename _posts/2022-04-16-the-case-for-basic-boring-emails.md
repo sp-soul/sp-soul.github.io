@@ -3,7 +3,7 @@ layout: post
 class: blog-entry
 title: "The case for basic, boring emails"
 excerpt: "After a recent run in with our emails at Octopus, I want to quickly share why I believe email is very bad, and why you should consider doing next to nothing with the next email you send to your users"
-date: 2022-04-15
+date: 2022-04-16
 readingtime: ~6 minutes
 permalink: /blog/:title
 tags: coding octopus
