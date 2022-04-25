@@ -29,7 +29,7 @@ Ben Gateley, the CEO & Co-founder of CharlieHR, had an interesting follow-up in 
 
 > If you are *given* 25 days holiday that are *yours* to take, then you are subconsciously motivated to take them. **It’s some kind of psychological quirk of ownership** – when something belongs to you, then you immediately value it far more highly.
 
-This makes sense - 'unlimited' means there’s all this possibility - so much choice - that you never choose. If you’re offered “use it or lose it”, you typically use it. In doing that, despite its rigid structure, it ensures people are taking a sensible amount of time off to rest and recover.
+This makes sense - 'unlimited' means there’s all this possibility, and so much choice, that you never actually choose. If you’re offered “use it or lose it”, you typically use it. In doing that, despite its rigid structure, it ensures people are taking a sensible amount of time off to rest and recover.
 
 > The lack of a number – the very concept of unlimited – potentially means you don’t value that holiday time in the same way. You have all the time off in the world, and all the time to take it in… so you don’t.
 {:.answer}
@@ -53,7 +53,7 @@ In the write-up I mentioned above, Ben Gateway also mentioned that unlimited hol
 ### We have no upper limit, but we have a lower one
 A common negative associated with unlimited holiday policies is that, when faced with infinite days and possibilities, the decision paralysis means that people take hardly any holiday.
 
-That's why we have imposed a "lower limit" of 23 days that you *must* take each year. I'd love people to take more than that, but the choice to do so is theirs. However for all intents and purposes, taking less than 23 days holiday each year is seen a betrayal to themselves and Octopus. Without that time off, there's no way that they could be bringing their best selves to work in my opinion. For us, this combats a lot of the concerns around people not taking time off when faced with the infinite number we offer, whilst not stopping people from taking those extra weeks that they choose to take.
+That's why we have imposed a "lower limit" of 23 days that you *must* take each year. I'd love people to take more than that, but the choice to do so is theirs. However for all intents and purposes, taking less than 23 days holiday each year is seen as a betrayal to themselves and Octopus. Without that time off, there's no way that they could be bringing their best selves to work in my opinion. For us, this combats a lot of the concerns around people not taking time off when faced with the infinite number we offer, whilst not stopping people from taking those extra weeks that they choose to take.
 
 ### Be as flexible as possible
 I’ve often found that it’s as much about *when* someone asks for holiday as it is about how long it is. Often we need time on short notice, in order to take advantage of a last minute flight deal or change in schedule. It could just be that someone has suddenly reached the point where they really need that trip they’d promised themselves right away instead of a couple of months from now. That’s why our holiday policy has no fixed notice that someone has to provide - we just use our best judgment on how to handle each unique case as it arises.
@@ -84,4 +84,4 @@ My final note is that, even after all of the considerations and plans above, it 
 ## Overall
 I feel like this debate has the potential to be endless. We’re lucky to have an incredibly low turnover rate, which I’d like to think is down to the mission we’re all aligned on achieving, but we can’t rest on that and ride people into the ground.
 
-The last thing I’d want is someone leaving due to burnout and nothing else. Amazon offering to double their salary is something we can’t control and we won’t every try. People getting tired and falling out of love with what we do, however, is something that we can. That’s why for us, maintaining our trust in people and providing them with freedom without restrictions is paramount for us as a team and a company. It needs to be adopted by everyone (managers included), and a watchful eye to make it succeed, but it’s worth it.
+The last thing I’d want is someone leaving due to burnout and nothing else. Amazon offering to double their salary is something we can’t control and we won’t even try. People getting tired and falling out of love with what we do, however, is something that we can. That’s why for us, maintaining our trust in people and providing them with freedom without restrictions is paramount for us as a team and a company. It needs to be adopted by everyone (managers included), and a watchful eye to make it succeed, but it’s worth it.
