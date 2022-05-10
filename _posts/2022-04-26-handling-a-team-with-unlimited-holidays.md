@@ -6,7 +6,7 @@ excerpt: "Whilst the debate between unlimited and 'use it or lose it' holiday po
 date: 2022-04-26
 readingtime: ~7 minutes
 permalink: /blog/:title
-tags: management octopus
+tags: management octopus popular
 ---
 
 Octopus Energy is a company of very few processes. We famously (or infamously, depending on your stance) [have no HR process](https://www.bbc.co.uk/news/business-56130187). The approach is pretty similar to Netflix in that way - you create a culture of trust and responsibility and then remove processes that waste time and money in order to improve productivity and efficiency. Occasionally you get instances where people abuse a system, but they’re few and far between. When calculated as a whole, it’s a massive net gain.
