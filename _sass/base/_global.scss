@@ -37,6 +37,14 @@ ul {
         line-height: 3rem;
         border-left: 0.4rem solid #dedede;
         list-style-type: none;
+
+        ul {
+            margin-top: 1.6rem;
+        }
+
+        &:has(> ul) {
+            border-left: none;
+        }
     }
 }
 
