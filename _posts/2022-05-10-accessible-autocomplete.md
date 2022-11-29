@@ -79,7 +79,7 @@ This algorithm measures how many characters there are in common between the text
 ## Practical example
 Here’s one I made earlier for you to check out!
 
-[inclusive.guide/examples/6-cognitive-impairments/](https://inclusive.guide/examples/6-cognitive-impairments/)
+[learna11y.com/examples/6-cognitive-impairments/](https://learna11y.com/examples/6-cognitive-impairments/)
 
 The approach used in the images above match the functionality of the example I’ve created, using a library called [Missplete](https://xavi.github.io/miss-plete/). The code was created by a developer called [Xavi Caballé](https://github.com/xavi). In the practical example you’ll find links to all of his work.
 
@@ -91,4 +91,4 @@ Both provide a significant improvement on standard "strict" searching by allowin
 
 Whichever you choose, it's clear to see that fuzzy searching holds the potential to help more users.
 
-This component is one of many that you often see on the web that could be more accessible. There’s a host more like it [in my book](inclusive.guide), which you can check out if you’re interesting in learning more about accessibility (even if you’re not a developer!).
+This component is one of many that you often see on the web that could be more accessible. There’s a host more like it [in my book](learna11y.com), which you can check out if you’re interesting in learning more about accessibility (even if you’re not a developer!).

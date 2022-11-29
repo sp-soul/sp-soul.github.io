@@ -100,7 +100,7 @@ Now it’s time to learn beyond the basics. It becomes a bit harder to learn wha
 - Cognitive impairments
 - Mental health
 
-If you’d like to make this part of your journey easier, I’ve written a book that makes those deep dives easier to engage with! It’s called “[Practical Web Inclusion & Accessibility](https://inclusive.guide/buy)”, and you can [learn more about it here](https://inclusive.guide/).
+If you’d like to make this part of your journey easier, I’ve written a book that makes those deep dives easier to engage with! It’s called “[Practical Web Inclusion & Accessibility](https://learna11y.com/buy)”, and you can [learn more about it here](https://learna11y.com/).
 
 ## fa I r - Implementation
 

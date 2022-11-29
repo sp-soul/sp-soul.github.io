@@ -156,6 +156,6 @@ One thing’s for sure though - I do enjoy writing. Anything from tech books to 
 
 For now, “Practical Web Inclusion & Accessibility” is out in the world as my one and only book. A knackering 2019 with one hell of an ending, and one of my proudest achievements to date.
 
-And would this blog be complete without a plug? Hell no! You can read more about the book at [inclusive.guide](https://inclusive.guide), or grab yourself a copy at [inclusive.guide/buy](https://inclusive.guide/buy).
+And would this blog be complete without a plug? Hell no! You can read more about the book at [learna11y.com](https://learna11y.com), or grab yourself a copy at [learna11y.com/buy](https://learna11y.com/buy).
 
 ![Two pictures of me posing with copies of my book](/static/img/posts/writing-a-book-around-work/book-holding.jpg){:loading="lazy"}

@@ -173,6 +173,6 @@ These are just a few examples of dark patterns and how they can affect those wit
 > This is a light paddle into what is a pretty deep pond, and there are many ponds like it when it comes to web accessibility. This metaphor is a little broken, but my point is that I wrote a book about this, and web accessibility in general.
 {:.answer}
 
-The book is called “[Practical Web Inclusion & Accessibility](https://inclusive.guide/buy)". It’s written in a style like this and has a range of practical examples to help you along the way. If you’d like to learn more about it, or grab a copy, you can do so at [https://inclusive.guide](https://inclusive.guide).
+The book is called “[Practical Web Inclusion & Accessibility](https://learna11y.com/buy)". It’s written in a style like this and has a range of practical examples to help you along the way. If you’d like to learn more about it, or grab a copy, you can do so at [https://learna11y.com](https://learna11y.com).
 
 I've also recently started consulting with companies again in order to help them improve their approach to accessibility. If that sounds interesting to you, you can [learn more here](/get-advice).
