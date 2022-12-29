@@ -99,4 +99,4 @@ A nice stand plus charger combo form [Anker](https://www.amazon.co.uk/gp/product
 ### LED’s
 I set up some [LED strips](https://www.amazon.co.uk/gp/product/B085NJPQGY/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1) on the back of my desk for literally no other reason than it looks pretty cool at night. I think I was deep in the overthinking of the setup at this point.
 
-So there you have it! It’s fair to say I spent too much time on cable management, but that aside I’m happy with how it turned out. I took a lot of inspiration from the [workspaces newsletter](workspaces.xyz) that shares people’s setups twice a week.
+So there you have it! It’s fair to say I spent too much time on cable management, but that aside I’m happy with how it turned out. I took a lot of inspiration from the [workspaces newsletter](https://workspaces.xyz) that shares people’s setups twice a week.
