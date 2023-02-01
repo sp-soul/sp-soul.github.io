@@ -109,7 +109,7 @@ If you think you’re too busy to do it, I’d *really* recommend giving it a go
 > Did 100 things today...ticked two things off my to-do list…
 {:.question}
 
-One of the drawbacks I’ve found from the pomodoro techinique, is that it can sometimes oversimplify the list of things I’ve actually done. For example, if I’ve completed an “answer slacks” pomodoro, this doesn’t cover that I’ve done things like:
+One of the drawbacks I’ve found from the pomodoro technique, is that it can sometimes oversimplify the list of things I’ve actually done. For example, if I’ve completed an “answer slacks” pomodoro, this doesn’t cover that I’ve done things like:
 
 - Made an offer to a candidate to join one of my teams
 - Provided useful feedback to a dev on a proposal
