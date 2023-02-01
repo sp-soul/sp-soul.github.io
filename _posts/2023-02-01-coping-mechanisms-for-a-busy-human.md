@@ -60,7 +60,7 @@ I started practicing this idea a few years ago, and it really helps me mentally 
 
 Alongside the physical, I close down all tabs, files, and applications associated with that task. If I can see the desktop (and it’s also not swarming with screenshots or files), then I’m good to go again!
 
-By doign this, you’re not rooting through what you were researching or using in the task before whilst tackling the current one. This conscious break also allows for a breath between tasks. *Not* doing this was typically the main culprit as to why I’d lose hours to work *related* to what I initially sat down to sort out. Suddenly a 15 minute fix or a 10 minute email becomes an hour, and the balance takes a hit. Now I can ask myself “is this still the same thing I’m working on?”, or “will this next thing be achievable in the time I’ve got left, or should I take on something smaller?”. Which brings me onto:
+By doing this, you’re not rooting through what you were researching or using in the task before whilst tackling the current one. This conscious break also allows for a breath between tasks. *Not* doing this was typically the main culprit as to why I’d lose hours to work *related* to what I initially sat down to sort out. Suddenly a 15 minute fix or a 10 minute email becomes an hour, and the balance takes a hit. Now I can ask myself “is this still the same thing I’m working on?”, or “will this next thing be achievable in the time I’ve got left, or should I take on something smaller?”. Which brings me onto:
 
 ## The Pomodoro Technique
 > why measure tasks in time, when you can do it in tomatoes?
@@ -127,7 +127,7 @@ Now, this isn’t a productivity tip - it’s a motivation tip. Reviewing a “d
 > Had some uninterrupted time, got destroyed by a meeting invite
 {:.question}
 
-Thisl tip is by no means a silver bullet - there are many times when meetings you’re invited to are simply unmoveable. However after implemeting this approach, I realised a lot of them were more flexible than I first anticipated.
+This tip is by no means a silver bullet - there are many times when meetings you’re invited to are simply unmoveable. However after implemeting this approach, I realised a lot of them were more flexible than I first anticipated.
 
 A really neat feature of Google calendar is appointment slots. You can set specific periods of time each week that people are able to book in order to meet with you. You get to dictate:
 
