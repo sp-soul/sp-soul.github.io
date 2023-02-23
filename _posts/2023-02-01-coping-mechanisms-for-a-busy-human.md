@@ -46,7 +46,7 @@ I even have a neat habit tracker in my Notion, where it creates a new card each 
 ![A page in Notion with a series of checkboxes for coffee, meditation, reading, exercise, and flossing. A progress bar lets me know how near completion I am.](/static/img/posts/coping-mechanisms-for-a-busy-human/habit-tracker.png){:loading="lazy"}
 
 <aside>
-⭐ The above is based on [Notion’s habit tracker template](https://www.notion.so/templates/habit-tracker-health-self-improvement).
+⭐ The above is based on <a href="https://www.notion.so/templates/habit-tracker-health-self-improvement">Notion’s habit tracker template</a>.
 
 </aside>
 
