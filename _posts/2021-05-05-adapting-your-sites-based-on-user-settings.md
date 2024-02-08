@@ -21,7 +21,7 @@ So much of the web takes advantage of movement. Whether that’s videos and gifs
 > “As animated interfaces increasingly become the norm, more people have begun to notice that large-scale motion on screen can cause them dizziness, nausea, headaches, or worse. For some, the symptoms can last long after the animation is over.” <sup>[1](https://alistapart.com/article/designing-safer-web-animation-for-motion-sensitivity/)</sup>
 
 The best description I’ve found of the effect this has is from the a11y project:
-> Your personal steady-cam is broken. Whatever you look at tends to move regardless of if you are moving. <sup>[2](https://www.a11yproject.com/posts/2013-05-15-understanding-vestibular-disorders/)</sup>
+> Your personal steady-cam is broken. Whatever you look at tends to move regardless of if you are moving. <sup>[2](https://www.a11yproject.com/posts/understanding-vestibular-disorders/#:~:text=People%20with%20vestibular%20disorders%20have,can%20experience%20it%20for%20years.)</sup>
 
 As you can tell then, it’s really important to allow users to let you know that they don’t want to see a lot of movement, and for your sites to respond to that request. That’s where the `prefers-reduced-motion` setting comes in - it will allow you to look for that setting and then reduce, or remove, the motion in your sites.
 
