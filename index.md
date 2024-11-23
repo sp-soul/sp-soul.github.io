@@ -1,9 +1,5 @@
 ---
-title: Welcome to my blog
+title: The little blog that tries
 ---
-#Testing my homepage
-Happy to try
-
-#Another section
-
-##Subsection
+# A liveable future starts today
+Trying to help each other shouldn't be scary. Doing something for the good of others shouldn't be embarrassing, so let's work on that together.
