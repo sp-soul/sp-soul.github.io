@@ -24,7 +24,7 @@ layout: default
     <main class="post post__content">
         <h1>{{ page.title }}</h1>
         <p class="post__reading-time">
-            {{ page.date | date: "%B %-d, %Y" }}{% if page.meta %} • {{ page.meta }}{% endif %} / Reading time: <strong>{{ page.readingtime }}</strong>
+            {{ page.date | date: "%-d %B, %Y" }}{% if page.meta %} • {{ page.meta }}{% endif %} / Reading time: <strong>{{ page.readingtime }}</strong>
             {% if page.tags %}
                 <span class="tags">
                     {% for tag in page.tags %}
