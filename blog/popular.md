@@ -1,5 +1,5 @@
 ---
 layout: tag
-title: "Popular posts - Ashley Firth's blog"
+title: "Popular posts"
 tag: popular
 ---
