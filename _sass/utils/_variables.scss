@@ -5,14 +5,14 @@
 /* Colours */
 $background: #f1ede3;
 $text: #555555;
-$link: #1e68a8;
-$link-hover: #23527c;
-$popular: #d7be69;
+$link: #AD4700;
+$link-hover: #943f04;
+$popular: #EBE781;
 
-$background-reverse: #0d1526;
+$background-reverse: #15260d;
 $text-reverse: #e9e5d5;
-$link-reverse: #00d8ff;
-$link-reverse-hover: #00d8ff;
+$link-reverse: #EBE781;
+$link-reverse-hover: #EBE781;
 
 /* Breakpoint */
 $container: 960px;
@@ -20,5 +20,5 @@ $mobile: 700px;
 $phone: 450px;
 
 /* Fonts */
-$font-title: 'Noto Serif JP', serif;
-$font-body: 'Source Serif Pro', serif;
+$font-title: 'Nunito Sans', sans-serif;
+$font-body: 'Helvetica Neue', Helvetica, Arial, sans-serif;
