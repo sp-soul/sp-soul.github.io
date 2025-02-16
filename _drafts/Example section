@@ -1,0 +1,268 @@
+Example section on work and education history, copied from Ashley Firth <a href = https://mrfirthy.me/ /a>
+<div class="section">
+  <h2>Work</h2>
+
+  <div class="role">
+    <h3>
+      <a href="https://octopus.energy">Octopus Energy</a> (December 2015 -
+      Present)
+    </h3>
+    <p><strong>Global Director of Engineering</strong></p>
+    <p>
+      Having been at Octopus Energy since its formation in 2015, I built and
+      lead the Global Engineering team - overseeing its growth and development,
+      crafting sites and internal tools, building new products and campaigns,
+      and expanding into other countries.
+    </p>
+    <p>
+      Our aim is to combat climate change, use technology to build a better
+      standard of energy supplier, and make renewable energy more affordable for
+      everyone. The teams feature Front-end and Back-end web development,
+      Mobile, Design, Product, and Data Visualisation. Over these years, I have
+      learned how to manage across disciplines, timezones, and various team
+      sizes, and discovered my love for it as a job.
+    </p>
+    <p>
+      In May 2020, Octopus Energy became the 15th UK tech
+      <strong>“unicorn”</strong> after achieving a valuation of
+      <a
+        href="https://octopus.energy/blog/octopus-energy-achieves-unicorn-status-investment-origin-energy/"
+        >over &pound;1 billion</a
+      >. At the time of writing, Octopus Energy Group is valued at over $9bn.
+    </p>
+    <p>
+      <strong
+        >Stack: React, NextJS, GraphQL, Apollo, Jest, React Testing Library,
+        Styled Components, Vite Storybook</strong
+      >
+    </p>
+
+    <p><strong>Awards:</strong></p>
+    <ul>
+      <li>
+        🏆 Which? recommended energy supplier 7 years in a row - 2018-2024
+      </li>
+      <li>🏆 UK's most awarded energy supplier</li>
+      <li>🏆 Time100's Most Influential Companies</li>
+      <li>🏆 Glassdoor's Best Places to Work</li>
+      <li>🏆 FT's Fastest Growing Companies</li>
+    </ul>
+  </div>
+
+  <div class="info">
+    <p>
+      Around my work, I consult with companies in order to help them improve
+      their <a href="/accessibility-help">approach to accessibility</a>, and
+      with people to help them with
+      <a href="/management-help">management and leadership</a>. If that sounds
+      interesting to you, let's chat.
+    </p>
+  </div>
+
+  <div class="role">
+    <h3><a href="https://www.w3.org/">W3C</a> (January 2024 - Present)</h3>
+    <p>
+      <strong>Invited Expert - Accessibility Guidelines Working Group</strong>
+    </p>
+    <p>
+      Around my work at Octopus, I joined the Accessibility Guidelines Working
+      Group at W3C as an invited expert. My role involves helping to build the
+      next version of WCAG, so that it's easier than ever for people across the
+      web to make their websites more accessible.
+    </p>
+    <p>
+      You can
+      <a href="https://www.w3.org/WAI/GL"
+        >read more about what we're working on here</a
+      >.
+    </p>
+  </div>
+</div>
+
+<div class="section">
+  <h2>Writing</h2>
+
+  <div class="project">
+    <h3>
+      <a href="https://learna11y.com"
+        >Practical Web Accessibility (Second Edition)</a
+      >
+    </h3>
+    <p>
+      The revamped and updated second edition of my first book abotu web
+      accessibility. You'll be guided through a broad range of disabilities and
+      access needs, understand the ways these users typically engage with the
+      web, the barriers they often face, and practical advice on how your
+      websites and content can be compliant, but more than that, inclusive and
+      enjoyable.
+    </p>
+    <p>It's suitable for anyone regardless of role or experience.</p>
+  </div>
+
+  <div class="project">
+    <h3>
+      <a
+        href="https://www.amazon.co.uk/Practical-Web-Inclusion-Accessibility-Comprehensive/dp/1484254511/"
+        >Practical Web Inclusion and Accessibility</a
+      >
+    </h3>
+    <p>
+      My first book, published with <a href="https://apress.com">Apress</a> in
+      2020, about web accessibility. It topped the Amazon technology charts.
+    </p>
+  </div>
+
+  <div class="project">
+    <h3>
+      <a href="static/documents/articles/accessibility-webdesigner272.pdf"
+        >Accessibility: a web for all</a
+      >
+    </h3>
+    <p><strong>Web Designer Magazine</strong> (Issue 272)</p>
+    <p>
+      A feature for a print magazine talking about designing and developing for
+      general web accessibility, and helping those with specific disabilities.
+    </p>
+  </div>
+
+  <div class="project">
+    <h3><a href="/blog">Personal blog</a></h3>
+    <p>
+      A more personal space for my writing. Typically includes thoughts on
+      management, accessibility, productivity, and how me, my team, and Octopus
+      Energy handle things.
+    </p>
+  </div>
+</div>
+
+<div class="section">
+  <h2>Speaking</h2>
+
+  <div class="project">
+    <h3>
+      <a
+        href="https://www.linkedin.com/feed/update/urn:li:activity:7128697696197963778/"
+        >Gartner IT Symposium (Barcelona)</a
+      >
+    </h3>
+    <p>
+      A fireside chat about the future of AI within the workplace, alongside
+      Asana. I spoke about my history at Octopus Energy, our values, and our
+      approach to using AI.
+    </p>
+  </div>
+
+  <div class="project">
+    <h3>
+      <a href="https://www.creditstrategy.co.uk/credit-summit">Credit Summit</a>
+    </h3>
+    <p>
+      I spoke at Credit Strategy's 'Credit Summit' as part of a Q&amp;A panel
+      about Digitalising the customer journey and how best to empower vulnerable
+      customers.
+    </p>
+  </div>
+
+  <div class="project">
+    <h3><a href="https://www.utilityweeklive.co.uk/">Utility Week Live</a></h3>
+    <p>
+      I spoke and was part of a Q&amp;A panel as part of the ‘Creating inclusive
+      services’ seminar session at Utility Week Live. My talk focused on easy
+      ways for companies to improve the accessibility of their websites with
+      minimal effort, and why that's so important.
+    </p>
+  </div>
+
+  <div class="project">
+    <h3>
+      <a
+        href="https://www.festivalofmarketing.com/speakers-library/ashley-firth"
+        >Festival of Marketing</a
+      >
+    </h3>
+    <p>
+      My talk was about accessibility on the web and beyond, the challenges
+      we’ve faced at Octopus Energy trying to make a truly inclusive experience
+      for everyone, and why it’s so important that everybody focuses on this in
+      today’s society.
+    </p>
+  </div>
+</div>
+
+<div class="section">
+  <h2>Current focus</h2>
+  <p>
+    Want to know what I'm reading / playing / building / thinking? Check out my
+    <a href="/now">Now page</a>
+  </p>
+
+  <div class="project">
+    <h3>Consulting</h3>
+    <p>
+      Around my work, I consult with companies in order to help them improve
+      their <a href="/accessibility-help">approach to accessibility</a>, and
+      with people to help them with
+      <a href="/management-help">management and leadership</a>. If that sounds
+      interesting to you, let's chat.
+    </p>
+  </div>
+
+  <div class="project">
+    <h3>Recruiting</h3>
+    <p>
+      My team and I have spent a long time creating brand and region agnostic
+      code, so that we can build and maintain multiple instances of branded
+      energy websites using the same core components.
+    </p>
+    <p>
+      Octopus have expanded into 15 countries across 5 continents, and I'm
+      looking for passionate Front-end developers to join my team at Octopus
+      Energy. If you're interested, then drop me an email with your CV to
+      <a href="mailto:ashley@octopus.energy">ashley[at]octopus[dot]energy</a>
+    </p>
+  </div>
+</div>
+
+<div class="section">
+  <h2>Past work</h2>
+
+  <div class="role">
+    <h3>
+      <a href="http://www.tangent.co.uk/">Tangent Snowball</a> (November 2013 -
+      December 2015)
+    </h3>
+    <p>
+      I worked on digital marketing and CRM projects focusing on creating
+      strong, adaptive sites that can handle high traffic for their clients.
+    </p>
+    <p><strong>Clients: SAP, The Labour Party, Walkers, Carlsberg</strong>.</p>
+  </div>
+
+  <div class="role">
+    <h3>
+      <a href="https://www.linkedin.com/company-beta/780250"
+        >Fishrod Interactive</a
+      >
+      (June 2012 - November 2013)
+    </h3>
+    <p>
+      I worked at Fishrod Interactive after graduating, on projects abroad and
+      all over the U.K. I helped to create
+      <strong>interactive experiences and installations</strong>.
+    </p>
+    <p><strong>Clients: WWE, Sky, Budweiser, Metro</strong></p>
+  </div>
+</div>
+
+<div class="section">
+  <h2>Education</h2>
+
+  <h3>BA (Hons) First class honours, Interactive Media Production</h3>
+  <div class="role">
+    <p>
+      I attended Bournemouth University, graduating in 2012. I was also a
+      peer-assisted learning coordinator, student ambassador, and student radio
+      presenter - receiving the student development award.
+    </p>
+  </div>
+</div>
