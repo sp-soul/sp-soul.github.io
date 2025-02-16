@@ -1,0 +1,12 @@
+---
+layout: post
+class: blog-entry
+title: "Test Two"
+excerpt: "Testing testing"
+date: 2025-02-16
+readingtime: ~5 minutes
+permalink: /blog/:title
+tags: technology
+---
+
+Testing technology tag
